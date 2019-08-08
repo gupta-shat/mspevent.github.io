@@ -1,7 +1,7 @@
 title: Welcome Coders!
 description: codewithdev is a fully-fledged Technical Blog which is drawing your attention all the time.
 baseurl: "https://codewithdev.github.io" # the subpath of your site, e.g. /blog
-url: "flexton.netlify.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://codewithdev.me" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Author
 author-name:    Dev Prakash Sharma        
