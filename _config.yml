@@ -1,25 +1,27 @@
 title: Welcome to Flexton
 description: Flexton is a responsive and ultra-minimal theme for Jekyll.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "https://codewithdev.github.io" # the subpath of your site, e.g. /blog
 url: "flexton.netlify.com" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Author
-author-name:    Clayton Hanson
+author-name:    Dev Prakash Sharma        
 author-image:   1.jpg
-author-job:     Web Developer
-author-email:   your-email@domain.com # Add your email for contant form.
-author-twitter: artemsheludko_ # Add your twitter account
-about-author:   I am a web developer focusing on front-end development. Always hungry to keep learning.
+author-job:     Web Developer | Tech Enthusiast | Blogger | AI & ML | Ethical Hacker
+author-email:   dev.18715@knit.ac.in # Add your email for contant form.
+author-twitter: devtweets  # Add your twitter account
+about-author:   An Open Source advocate with interest in Technology. Web Developer, Tech Enthusiast.
+       Former Machine Learning Intern at IIT Roorkee. Currently working in Projects using Machine Learning and Deep Learning.
 
 # Social settings
-social-twitter:   artemsheludko_
-social-facebook:
-social-github:    artemsheludko
-social-pinterest: artemsheludko
-social-instagram: artemsheludko_
-social-youtube:
+social-twitter:   devtweets
+social-facebook:  beliked3v
+social-github:    codewithdev
+social-pinterest: 
+social-instagram: beliked3v
+social-youtube:  Dev Prakash Sharma
 social-vk:   
-social-linkedin:
+social-linkedin: idevprakaash
+social-mail: dev.18715@knit.ac.in
 
 # Newsletter
 mailchimp: # Add your MailChimp form identifier. For example - blogenjoyfreedom.us16.list-manage.com/subscribe/post?u=cd56155d76ddeeb4c0bc4d080&amp;id=7a526cd13e
@@ -35,8 +37,11 @@ markdown: kramdown
 permalink: /:year/:month/:day/:title/
 plugins:
   - jekyll-paginate
+  - jekyll-feed
+  - jekyll-compose
+  - jemoji
 
-paginate: 7
+paginate: 5
 paginate_path: "/page/:num/"
 
 include:
