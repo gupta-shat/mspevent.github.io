@@ -20,7 +20,7 @@ All these books are highly recommended by the Top most Developers over the world
  
  
  
- **For Java Programming
+ #### 1.For Java Programming
  
  Java is a Popular Programming Language, created in 1995. It is owned by Oracle and more than **3billion** devices run Java. If you are an Full stack Developer you can not consider yourself a Developer without knowing Java. It has many Applications and Commonly used by the Developers in many ways like:
  
@@ -60,7 +60,7 @@ All these books are highly recommended by the Top most Developers over the world
  {:style="color:#505050; text-align: centre;"}
  
  [**Java All in One**](https://www.mediafire.com/file/vhpi1vfqmwb5caf/Java_-_All_In_One.pdf/file)-(Recommended)
- {:style="color:#505050; text-align: centre;"}- 
+{:style="color:#505050; text-align: centre;"} 
  
  [**Java Advance Handling writter Book**](https://www.mediafire.com/file/r7ssga0v3nxekar/Java_-_Advance_Handling_Writen_Book.pdf/file)
   {:style="color:#505050; text-align: centre;"}
@@ -86,8 +86,50 @@ All these books are highly recommended by the Top most Developers over the world
  [**Jquery for Dummies**](https://www.mediafire.com/file/nk5u4acp3e8t0st/JQuery_for_Dummies.pdf/file)
   {:style="color:#505050; text-align: centre;"}
   
+ [**Java Script Cookbook-O'Reilly**](https://www.mediafire.com/file/a8ra88uo365tjhn/Shelley_Powers_-_JavaScript_Cookbook_%28Oreilly_Cookbooks%29-O%27Reilly_Media_%282010%29.pdf/file) 
+ {:style="color:#505050; text-align: centre;"}
   
-  
+#### 2.Data Structure and Algorithms
+
+Cosider you are working in a Big Giant Company, obviously there would be a lot of works for you. Lets see if a Senior Developer has assigned a work for you such that you have to order the census of all the employee and the file assigned you has already forked from the past 14 years of list of directory. What would you Do?? 
+  Data Structure Plays a vital role here.If you know how to analyze the data from the past directories with the use of Data Structure you can do it easily. And cheere you would probably make your Boss Developer happy. 
+  From those ideas, here i am listing top of the Books that will clean your niche Passsion towards the Coding. 
+<br/>
+
+[**Data Structure and Algorithms made Easy**](https://www.mediafire.com/file/piss49loddi6rof/Narasimha_Karumanchi_-_Data_structures_and_algorithms_made_easy-CareerMonk.pdf/file)-(Recommended)
+{:style="color:#505050; text-align: centre;"}
+
+[**Data Structure and algorithms made Easy Test Book**](https://www.mediafire.com/file/y7heytrqqvvokd3/Narasimha_Karumanchi_-_Data_Structures_and_Algorithms_Made_Easy__Data_Structures_and_Algorithmic_Puzzles-CareerMonk_Plublications_%282017%29.pdf/file)
+{:style="color:#505050; text-align: centre;"}
+
+[**Coding Interview Questions and Challenges**](https://www.mediafire.com/file/tja9v59ep1p262y/Narasimha_Karumanchi_-_Coding_Interview_Questions-CareerMonk_Publ._%282016%29.pdf/file)
+{:style="color:#505050; text-align: centre;"}
+
+
+#### 3. Python Programming
+
+You Probably heard about Python Earlier.Because it is the Most widely used Prgramming Language around the world today. Talking about application, It is widely used in many areas from over the past 5 years. Many Product as well as MNC are requring and hiring a large amoount of developer to work on Python.Best thing about this language is it is completely Open Source and available to use.It has Roubust standard libraries that saves a lot of time. 
+ > **You can compare Python with other different language. As Developer opt Python cause whereas in Java a 100 line codes is somewhere equivalent to 20 lines of code in Python**
+ 
+ If you are a Python Developer these books would help you to understand the basic syntax and logics and terminologies used in Python.
+ 
+ <br/>
+ [**Learn Python the Hard Way**](https://www.mediafire.com/file/fnmldbj6dzpaau1/Zed_A._Shaw_-_Learn_Python_3_the_Hard_Way-Addison-Wesley_%282017%29.pdf/file)-(Recommended)
+ {:style="color:#505050; text-align: centre;"}
+ 
+ [**Python Crash Course**](https://www.mediafire.com/file/0f9c3wi9nooeguj/Eric_Matthes_-_Python_Crash_Course_A_Hands-On%2C_Project-Based_Introduction_to_Programming-No_Starch_Press_%282016%29.pdf/file)
+ {:style="color:#505050; text-align: centre;"}
+ 
+ [**Learning Python**](https://www.mediafire.com/file/67sq8a7f6gwffd0/Mark_Lutz_-_Learning_Python%2C_4th_Edition-O%27Reilly_Media_%282009%29.pdf/file)- (Best in Case you are beginner)
+ {:style="color:#505050; text-align: centre;"}
+ 
+ [**Website Scrapping with Python**](https://www.mediafire.com/file/ky9eozuuct4xt7z/Website_Scrapping_with_Python.pdf/file)
+ {:style="color:#505050; text-align: centre;"}
+ 
+ [**Request More on Python**](mailto:admin@codewithdev.me)
+ 
+ 
+ 
   
  
  
