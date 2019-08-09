@@ -7,7 +7,7 @@ tags: [programming, ebooks]
 categories: profile
 ---
 
- **Hi!** ***Sophos***
+ **Hi!** ***Sophos*** :bowtie:
  
  Hope you are all doing well. In this blog I am going to tell you top Programming Books that you must read if you love Programming.
 All these books are highly recommended by the Top most Developers over the world while they still use for the purpose of Programming.All these Books are paid Versions.
@@ -143,7 +143,7 @@ The process of learning begins with observations or data, such as examples, dire
  [**Machine Learning for Dummies**](https://www.mediafire.com/file/thu8c8dkg8ybz7j/Machine_Learning_for_dummies.pdf/file)
  {:style="color:#505050; text-align: centre;"}
  
- [**Working with Tensorflow Premium**](https://www.mediafire.com/file/th4u0g8zd55nkgu/Tensor_flow.pdf/file)-(Personal Favourite {{":sunglasses:":emojify)
+ [**Working with Tensorflow Premium**](https://www.mediafire.com/file/th4u0g8zd55nkgu/Tensor_flow.pdf/file)-(Personal Favourite  :sunglasses:)
  {:style="color:#505050; text-align: centre;"}
  
  
