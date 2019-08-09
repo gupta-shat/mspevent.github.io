@@ -33,12 +33,41 @@ All these books are highly recommended by the Top most Developers over the world
    * And Many More.
    
   <br/>
-  [**Learn Java the Hard Way**](http://www.mediafire.com/file/3qkqp32xddozrf3/Jeff_Friesen_-_Learn_Java_for_Android_Development-Apress_%25282014%2529.pdf/file)
+  [**Learn Java the Hard Way**](http://www.mediafire.com/file/3qkqp32xddozrf3/Jeff_Friesen_-_Learn_Java_for_Android_Development-Apress_%25282014%2529.pdf/file)- (Recommended)
   {:style="color:#505050; text-align: centre;"}  
   <br/>
  [**Java For Android Development**](http://www.mediafire.com/file/3qkqp32xddozrf3/Jeff_Friesen_-_Learn_Java_for_Android_Development-Apress_%25282014%2529.pdf/file)
-  [:style="color:#505050; text-align: centre;]
+  {:style="color:#505050; text-align: centre;"}
   
+ [**Java the complete Reference**](http://www.mediafire.com/file/0ltkbv0lqrr9erj/Patrick_Naughton%252C_Herbert_Schildt_-_Java__The_Complete_Reference-McGraw-Hill_Osborne_Media_%25281996%2529.pdf/file)
+ {:style="color:#505050; text-align: centre;"}
+ 
+ [**Clean Code**](http://www.mediafire.com/file/817g7faiyyv7goz/Robert_C._Martin_-_Clean_Code__A_Handbook_of_Agile_Software_Craftsmanship-Prentice_Hall_%25282008%2529.pdf/file)
+ {:style="color:#505050; text-align: centre;"}
+ 
+ [**Java Data Structure and Algorithms**](https://www.mediafire.com/file/hj3n6xptqi2f3u5/Java_-_Data_Structure_And_Algorithms.pdf/file)
+  {:style="color:#505050; text-align: centre;"}
+  
+ [**J2ME From Fresher to Professional**](https://www.mediafire.com/file/iqnttvicxnl0lh5/J2ME_-_From_Fresher_to_Professional.pdf/file)
+ {:style="color:#505050; text-align: centre;"}
+ 
+ [**Java Swing**](https://www.mediafire.com/file/dn91qkf5eda1caj/Java_Swing.pdf/file)
+  {:style="color:#505050; text-align: centre;"}
+  
+ [**Java-Programming- 8th Eddition**](https://www.mediafire.com/file/613ajeyvgzh0b8h/Java_-_Programming_-_8th_Edition.pdf/file)
+ {:style="color:#505050; text-align: centre;"}
+ 
+ [**Java-Core Java**](https://www.mediafire.com/file/wrj4v232lwf7193/Java_-_Core_Java.pdf/file)
+ {:style="color:#505050; text-align: centre;"}
+ 
+ [**Java All in One**](https://www.mediafire.com/file/vhpi1vfqmwb5caf/Java_-_All_In_One.pdf/file)
+ {:style="color:#505050; text-align: centre;"}- (Recommended)
+ 
+ [**Java Advance Handling writter Book**](https://www.mediafire.com/file/r7ssga0v3nxekar/Java_-_Advance_Handling_Writen_Book.pdf/file)
+  {:style="color:#505050; text-align: centre;"}
+  
+  [**Java How to Program**](https://www.mediafire.com/file/3vvabj364ozumdm/Java_-_How_to_Program.pdf/file)
+   {:style="color:#505050; text-align: centre;"}
   
   
   
