@@ -194,13 +194,11 @@ The process of learning begins with observations or data, such as examples, dire
  [**Understanding Pointer in C***](https://www.mediafire.com/file/z956h585u4i3utz/Yashavant_Kanetkar_-_Understanding_Pointers_in_C-BPB_Publications_%282003%29_2.pdf/file)
  {:style="color:#505050; text-align: centre;"}
  
- >***You can Request More books from*** [here](mailto:admin@codewithdev.me)
  
  
  
  
- 
-  >**DO YOU LIKE THIS ?  BLOG KINDLY DONT FORGET TO SUBSCRIBE AND SHARE** :blush:
+  >**DID YOU LIKED THIS BLOG?  KINDLY DONT FORGET TO SUBSCRIBE AND SHARE** :blush:
   
   **IF YOU WANT MORE BOOKS LIKE THIS DONT FORGET TO WRITE ME A MAIL**
   
