@@ -41,10 +41,6 @@ plugins:
   - jekyll-compose
   - jemoji
 
-
-#Gemoji plugin addition
-gems:
-  - gemoji
 paginate: 5
 paginate_path: "/page/:num/"
 
