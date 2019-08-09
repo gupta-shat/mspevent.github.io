@@ -10,7 +10,7 @@ categories: profile
  **Hi!** ***Sophos*** :bowtie:
  
  Hope you are all doing well. In this blog I am going to tell you top Programming Books that you must read if you love Programming.
-All these books are highly recommended by the Top most Developers over the world while they still use for the purpose of Programming.All these Books are paid Versions.
+All these books are highly recommended by the Top most Developers over the world while they still use it for the purpose of Programming.All these Books are of paid Versions.
    >**_You don't have to worry about that_** ;) 
    **_In this blog you will get all these books for free.Let's Check it out!_**
    
@@ -90,7 +90,7 @@ All these books are highly recommended by the Top most Developers over the world
   
 #### 2. Data Structure and Algorithms
 
-Cosider you are working in a Big Giant Company, obviously there would be a lot of works for you. Lets see if a Senior Developer has assigned a work for you such that you have to order the census of all the employee and the file assigned you has already forked from the past 14 years of list of directory. What would you Do?? 
+Consider you are working in a Big Giant Company, obviously there would be a lot of works for you. Lets see if a Senior Developer has assigned a work for you such that you have to order the census of all the employee and the file assigned you has already forked from the past 14 years of list of directory. What would you Do?? 
   Data Structure Plays a vital role here.If you know how to analyze the data from the past directories with the use of Data Structure you can do it easily. And cheere you would probably make your Boss Developer happy. 
   From those ideas, here i am listing top of the Books that will clean your niche Passsion towards the Coding. 
 <br/>
