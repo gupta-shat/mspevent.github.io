@@ -20,7 +20,7 @@ All these books are highly recommended by the Top most Developers over the world
  
  
  
- # For Java Programming
+ **For Java Programming
  
  Java is a Popular Programming Language, created in 1995. It is owned by Oracle and more than **3billion** devices run Java. If you are an Full stack Developer you can not consider yourself a Developer without knowing Java. It has many Applications and Commonly used by the Developers in many ways like:
  
@@ -32,10 +32,9 @@ All these books are highly recommended by the Top most Developers over the world
    * Database Connections 
    * And Many More.
    
-  <br/>
+
   [**Learn Java the Hard Way**](http://www.mediafire.com/file/3qkqp32xddozrf3/Jeff_Friesen_-_Learn_Java_for_Android_Development-Apress_%25282014%2529.pdf/file)- (Recommended)
-  {:style="color:#505050; text-align: centre;"}  
-  <br/>
+  {:style="color:#505050; text-align: centre;"}
  [**Java For Android Development**](http://www.mediafire.com/file/3qkqp32xddozrf3/Jeff_Friesen_-_Learn_Java_for_Android_Development-Apress_%25282014%2529.pdf/file)
   {:style="color:#505050; text-align: centre;"}
   
@@ -60,14 +59,32 @@ All these books are highly recommended by the Top most Developers over the world
  [**Java-Core Java**](https://www.mediafire.com/file/wrj4v232lwf7193/Java_-_Core_Java.pdf/file)
  {:style="color:#505050; text-align: centre;"}
  
- [**Java All in One**](https://www.mediafire.com/file/vhpi1vfqmwb5caf/Java_-_All_In_One.pdf/file)
- {:style="color:#505050; text-align: centre;"}- (Recommended)
+ [**Java All in One**](https://www.mediafire.com/file/vhpi1vfqmwb5caf/Java_-_All_In_One.pdf/file)-(Recommended)
+ {:style="color:#505050; text-align: centre;"}- 
  
  [**Java Advance Handling writter Book**](https://www.mediafire.com/file/r7ssga0v3nxekar/Java_-_Advance_Handling_Writen_Book.pdf/file)
   {:style="color:#505050; text-align: centre;"}
   
-  [**Java How to Program**](https://www.mediafire.com/file/3vvabj364ozumdm/Java_-_How_to_Program.pdf/file)
+ [**Java How to Program**](https://www.mediafire.com/file/3vvabj364ozumdm/Java_-_How_to_Program.pdf/file)
    {:style="color:#505050; text-align: centre;"}
+ 
+ [**JQuery UI Mobile**](https://www.mediafire.com/file/8pp4beo92to9fb4/JQuery_JQuery_UI___JQuery_Mobile.pdf/file)
+ {:style="color:#505050; text-align: centre;"}
+ 
+ [**JSON Developer's Guide**](https://www.mediafire.com/file/0dd70422tzzjtae/JSON_-_Developer_s_Guide.pdf/file)-(Recommended)
+ {:style="color:#505050; text-align: centre;"}
+ 
+ [**Java Script-For Freshers**](https://www.mediafire.com/file/d2dswabyowlwoh3/Java_Script_-_Fresher.pdf/file)
+  {:style="color:#505050; text-align: centre;"}
+  
+ [**JSP- Tutorial**](https://www.mediafire.com/file/ucihmbqhb0kgfv4/JSP_-_Tutorial.pdf/file)
+ {:style="color:#505050; text-align: centre;"}
+ 
+ [**JSON and AJAX**](https://www.mediafire.com/file/gpo9nn2sbv1ww32/Javascript_-_JSON_and_Ajax.pdf/file)
+ {:style="color:#505050; text-align: centre;"}
+
+ [**Jquery for Dummies**](https://www.mediafire.com/file/nk5u4acp3e8t0st/JQuery_for_Dummies.pdf/file)
+  {:style="color:#505050; text-align: centre;"}
   
   
   
