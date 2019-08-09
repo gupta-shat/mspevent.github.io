@@ -7,10 +7,34 @@ tags: [programming, ebooks]
 categories: profile
 ---
 
- **Hi! *Sophos
+ **Hi! ***Sophos
  
  Hope you are all doing well. In this blog I am going to tell you top Programming Books that you must read if you love Programming.
 All these books are highly recommended by the Top most Developers over the world while they still use for the purpose of Programming.All these Books are paid Versions.
-   >**You don't have to worry about that ;) 
-In this blog you will get all these books for free.Let's Check it out!
+   >**_You don't have to worry about that_** ;) 
+   **_In this blog you will get all these books for free.Let's Check it out!_**
+   
 
+
+ 
+ 
+ 
+ 
+ ## For Java Programming
+ 
+ Java is a Popular Programming Language, created in 1995. It is owned by Oracle and more than **3billion** devices run Java. If you are an Full stack Developer you can not consider yourself a Developer without knowing Java. It has many Applications and Commonly used by the Developers in many ways like:
+ 
+   * Mobile Application for Developing Android Apps
+   * Desktop Applications for Developing Windows Applications
+   * Web Application
+   * Web Servers and application Servers
+   * Games
+   * Database Connections 
+   * And Many More.
+   
+  <br/>
+  ###Le
+  
+ 
+ 
+   
