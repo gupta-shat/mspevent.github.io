@@ -19,8 +19,8 @@ All these books are highly recommended by the Top most Developers over the world
  
  
  
- 
- #### 1. For Java Programming
+<br/> 
+#### 1.  For Java Programming 
  
  Java is a Popular Programming Language, created in 1995. It is owned by Oracle and more than **3billion** devices run Java. If you are an Full stack Developer you can not consider yourself a Developer without knowing Java. It has many Applications and Commonly used by the Developers in many ways like:
  
@@ -106,7 +106,7 @@ Cosider you are working in a Big Giant Company, obviously there would be a lot o
 {:style="color:#505050; text-align: centre;"}
 
 
-#### 3.Python Programming
+#### 3. Python Programming
 
 You Probably heard about Python Earlier.Because it is the Most widely used Prgramming Language around the world today. Talking about application, It is widely used in many areas from over the past 5 years. Many Product as well as MNC are requring and hiring a large amoount of developer to work on Python.Best thing about this language is it is completely Open Source and available to use.It has Roubust standard libraries that saves a lot of time. 
  > **You can compare Python with other different language. As Developer opt Python cause whereas in Java a 100 line codes is somewhere equivalent to 20 lines of code in Python**
@@ -129,7 +129,7 @@ You Probably heard about Python Earlier.Because it is the Most widely used Prgra
  [**Request More on Python**](mailto:admin@codewithdev.me)
  
  
- #### 4.Machine Learning 
+ #### 4. Machine Learning 
  
  
  ![]({{site.baseurl}}/images/3.jpg){: .center-image }
@@ -153,7 +153,7 @@ The process of learning begins with observations or data, such as examples, dire
  
  <br/>
  
- #### 5.Basic Programming Language (C, C++, Dont Net)
+ #### 5. Basic Programming Language (C, C++, Dont Net)
  
  Whether you are beginner to porgramming, or you are a professional Programmer every Programmer has spent a lot of time with C, C++, Dot Net etc. Spending time with C, C++ or other basic Programming really kills the boredom of someone who is having a a lot of free time.
  Giving you Most Updated and Most widely used Programming Books only in this Blog.
