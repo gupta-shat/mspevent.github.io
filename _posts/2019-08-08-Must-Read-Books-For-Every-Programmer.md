@@ -2,7 +2,7 @@
 layout: post
 title: Must Read Books for Every Programming Students- Giveaway
 image: 2.jpg
-date: 2019-08-08 17:27 +0530
+date: 2019-08-05 17:27 +0530
 tags: [programming, ebooks]
 categories: profile
 ---
@@ -131,9 +131,7 @@ You Probably heard about Python Earlier.Because it is the Most widely used Prgra
  
 <br/>
 #### 4. Machine Learning and AI
- 
- 
- ![]({{site.baseurl}}/images/3.jpg){: .center-image }
+![]({{site.baseurl}}/images/3.jpg){: .center-image }
  
  If you are a full time Computer Science Student you know very well What is Machine Learning. Actually it is good to title with AI as "Machine Learning and AI". Experts from different countries are working on it to enhance and find the feasible Solution to Embedded Technology and [Cutting Edge Technology](https://www.techopedia.com/definition/26589/cutting-edge-technology). Machine learning is an application of artificial intelligence (AI) that provides systems the ability to automatically learn and improve from experience without being explicitly programmed. Machine learning focuses on the development of computer programs that can access data and use it learn for themselves.
 
