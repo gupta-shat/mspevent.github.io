@@ -20,7 +20,7 @@ All these books are highly recommended by the Top most Developers over the world
  
  
  
- ## For Java Programming
+ # For Java Programming
  
  Java is a Popular Programming Language, created in 1995. It is owned by Oracle and more than **3billion** devices run Java. If you are an Full stack Developer you can not consider yourself a Developer without knowing Java. It has many Applications and Commonly used by the Developers in many ways like:
  
@@ -34,12 +34,12 @@ All these books are highly recommended by the Top most Developers over the world
    
   <br/>
   [**Learn Java the Hard Way**](http://www.mediafire.com/file/3qkqp32xddozrf3/Jeff_Friesen_-_Learn_Java_for_Android_Development-Apress_%25282014%2529.pdf/file)
-  {:style="color:#505050; text-align: centre;"}
-  
+  {:style="color:#505050; text-align: centre;"}  
   <br/>
-  
-  [**Java For Android Development**](http://www.mediafire.com/file/3qkqp32xddozrf3/Jeff_Friesen_-_Learn_Java_for_Android_Development-Apress_%25282014%2529.pdf/file)
+ [**Java For Android Development**](http://www.mediafire.com/file/3qkqp32xddozrf3/Jeff_Friesen_-_Learn_Java_for_Android_Development-Apress_%25282014%2529.pdf/file)
   [:style="color:#505050; text-align: centre;]
+  
+  
   
   
   
