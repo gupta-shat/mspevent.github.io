@@ -143,8 +143,10 @@ The process of learning begins with observations or data, such as examples, dire
  [**Machine Learning for Dummies**](https://www.mediafire.com/file/thu8c8dkg8ybz7j/Machine_Learning_for_dummies.pdf/file)
  {:style="color:#505050; text-align: centre;"}
  
- [**Working with Tensorflow Premium**](https://www.mediafire.com/file/th4u0g8zd55nkgu/Tensor_flow.pdf/file)-(Personal Favourite ;) )
+ [**Working with Tensorflow Premium**](https://www.mediafire.com/file/th4u0g8zd55nkgu/Tensor_flow.pdf/file)-(Personal Favourite {{":sunglasses:":emojify)
  {:style="color:#505050; text-align: centre;"}
+ 
+ 
  
  
  
