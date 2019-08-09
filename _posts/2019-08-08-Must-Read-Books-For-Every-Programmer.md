@@ -149,9 +149,9 @@ The process of learning begins with observations or data, such as examples, dire
  ***If you want more books you can request me. Just Spend a min to write me mail here-->*** [Request More](mailto:admin@codewithdev.me)
  
  
- #### 5. Basic Programming Language (C, C++, Dont Net)
- 
- Whether you are beginner to porgramming, or you are a professional Programmer every Programmer has spent a lot of time with C, C++, Dot Net etc. Spending time with C, C++ or other basic Programming really kills the boredom of someone who is having a a lot of free time.
+#### 5. Basic Programming Language(C, C++, Dont Net) 
+
+Whether you are beginner to porgramming, or you are a professional Programmer every Programmer has spent a lot of time with C, C++, Dot Net etc. Spending time with C, C++ or other basic Programming really kills the boredom of someone who is having a a lot of free time.
  Giving you Most Updated and Most widely used Programming Books only in this Blog.
  
  
