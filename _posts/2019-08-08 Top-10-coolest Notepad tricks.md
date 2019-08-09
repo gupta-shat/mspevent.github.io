@@ -2,7 +2,7 @@
 layout: post
 title: Coolest Notepad Tricks and Hacks for your PC.
 image: Capture.jpg
-date: 2010-08-8 17:50:18 +0200
+date: 2019-08-08 17:50:18 +0200
 tags: [workflow, programming]
 categories: tips and tricks
 ---
