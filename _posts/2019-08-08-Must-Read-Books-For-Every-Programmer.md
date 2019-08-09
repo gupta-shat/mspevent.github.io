@@ -20,7 +20,7 @@ All these books are highly recommended by the Top most Developers over the world
  
  
  
- #### 1.For Java Programming
+ #### 1. For Java Programming
  
  Java is a Popular Programming Language, created in 1995. It is owned by Oracle and more than **3billion** devices run Java. If you are an Full stack Developer you can not consider yourself a Developer without knowing Java. It has many Applications and Commonly used by the Developers in many ways like:
  
@@ -127,6 +127,24 @@ You Probably heard about Python Earlier.Because it is the Most widely used Prgra
  {:style="color:#505050; text-align: centre;"}
  
  [**Request More on Python**](mailto:admin@codewithdev.me)
+ 
+ 
+ #### 4. Machine Learning 
+ ![]({{site.baseurl}}/images/3.jpg){: .center-image }
+ 
+ If you are a full time Computer Science Student you know very well What is Machine Learning. Actually it is good to title with AI as "Machine Learning and AI". Experts from different countries are working on it to enhance and find the feasible Solution to Embedded Technology and [Cutting Edge Technology](https://www.techopedia.com/definition/26589/cutting-edge-technology). Machine learning is an application of artificial intelligence (AI) that provides systems the ability to automatically learn and improve from experience without being explicitly programmed. Machine learning focuses on the development of computer programs that can access data and use it learn for themselves.
+
+The process of learning begins with observations or data, such as examples, direct experience, or instruction, in order to look for patterns in data and make better decisions in the future based on the examples that we provide. The primary aim is to allow the computers learn automatically without human intervention or assistance and adjust actions accordingly.
+ If you are ready to ship with me. Follow these books..
+ 
+ [**Machine Learning Basic**](https://www.mediafire.com/file/1akc6nhde4gzno4/Machine_Learning.pdf/file)
+ {:style="color:#505050; text-align: centre;"}
+ 
+ [**Machine Learning for Dummies**](https://www.mediafire.com/file/thu8c8dkg8ybz7j/Machine_Learning_for_dummies.pdf/file)
+ {:style="color:#505050; text-align: centre;"}
+ 
+ [**Working with Tensorflow Premium**](https://www.mediafire.com/file/th4u0g8zd55nkgu/Tensor_flow.pdf/file)-(Personal Favourite ;) )
+ {:style="color:#505050; text-align: centre;"}
  
  
  
