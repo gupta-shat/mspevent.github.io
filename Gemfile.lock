@@ -31,7 +31,7 @@ GEM
       jekyll (>= 3.7, < 5.0)
     jekyll-feed (0.12.1)
       jekyll (>= 3.7, < 5.0)
-    jemoji(0.11.0)
+    gemoji(0.11.0)
       jekyll (>==3.0,<5.0)
     jekyll-paginate (1.1.0)
     jekyll-sass-converter (1.5.2)
