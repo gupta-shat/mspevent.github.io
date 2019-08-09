@@ -18,9 +18,8 @@ All these books are highly recommended by the Top most Developers over the world
 
  
  
- 
-<br/> 
-#### 1.  For Java Programming 
+  
+#### 1. For Java Programming 
  
  Java is a Popular Programming Language, created in 1995. It is owned by Oracle and more than **3billion** devices run Java. If you are an Full stack Developer you can not consider yourself a Developer without knowing Java. It has many Applications and Commonly used by the Developers in many ways like:
  
@@ -89,7 +88,7 @@ All these books are highly recommended by the Top most Developers over the world
  [**Java Script Cookbook-O'Reilly**](https://www.mediafire.com/file/a8ra88uo365tjhn/Shelley_Powers_-_JavaScript_Cookbook_%28Oreilly_Cookbooks%29-O%27Reilly_Media_%282010%29.pdf/file) 
  {:style="color:#505050; text-align: centre;"}
   
-#### 2.Data Structure and Algorithms
+#### 2. Data Structure and Algorithms
 
 Cosider you are working in a Big Giant Company, obviously there would be a lot of works for you. Lets see if a Senior Developer has assigned a work for you such that you have to order the census of all the employee and the file assigned you has already forked from the past 14 years of list of directory. What would you Do?? 
   Data Structure Plays a vital role here.If you know how to analyze the data from the past directories with the use of Data Structure you can do it easily. And cheere you would probably make your Boss Developer happy. 
@@ -129,7 +128,6 @@ You Probably heard about Python Earlier.Because it is the Most widely used Prgra
  [**Request More on Python**](mailto:admin@codewithdev.me)
  
  
-<br/>
 #### 4. Machine Learning and AI
 ![]({{site.baseurl}}/images/3.jpg){: .center-image }
  
