@@ -106,7 +106,7 @@ Cosider you are working in a Big Giant Company, obviously there would be a lot o
 {:style="color:#505050; text-align: centre;"}
 
 
-#### 3. Python Programming
+#### 3.Python Programming
 
 You Probably heard about Python Earlier.Because it is the Most widely used Prgramming Language around the world today. Talking about application, It is widely used in many areas from over the past 5 years. Many Product as well as MNC are requring and hiring a large amoount of developer to work on Python.Best thing about this language is it is completely Open Source and available to use.It has Roubust standard libraries that saves a lot of time. 
  > **You can compare Python with other different language. As Developer opt Python cause whereas in Java a 100 line codes is somewhere equivalent to 20 lines of code in Python**
@@ -129,7 +129,9 @@ You Probably heard about Python Earlier.Because it is the Most widely used Prgra
  [**Request More on Python**](mailto:admin@codewithdev.me)
  
  
- #### 4. Machine Learning 
+ #### 4.Machine Learning 
+ 
+ 
  ![]({{site.baseurl}}/images/3.jpg){: .center-image }
  
  If you are a full time Computer Science Student you know very well What is Machine Learning. Actually it is good to title with AI as "Machine Learning and AI". Experts from different countries are working on it to enhance and find the feasible Solution to Embedded Technology and [Cutting Edge Technology](https://www.techopedia.com/definition/26589/cutting-edge-technology). Machine learning is an application of artificial intelligence (AI) that provides systems the ability to automatically learn and improve from experience without being explicitly programmed. Machine learning focuses on the development of computer programs that can access data and use it learn for themselves.
@@ -145,6 +147,66 @@ The process of learning begins with observations or data, such as examples, dire
  
  [**Working with Tensorflow Premium**](https://www.mediafire.com/file/th4u0g8zd55nkgu/Tensor_flow.pdf/file)-(Personal Favourite  :sunglasses:)
  {:style="color:#505050; text-align: centre;"}
+ 
+ <br/>
+ ***If you want more books you can request me. Just Spend a min to write me mail here-->*** [Request More](mailto:admin@codewithdev.me)
+ 
+ <br/>
+ 
+ #### 5.Basic Programming Language (C, C++, Dont Net)
+ 
+ Whether you are beginner to porgramming, or you are a professional Programmer every Programmer has spent a lot of time with C, C++, Dot Net etc. Spending time with C, C++ or other basic Programming really kills the boredom of someone who is having a a lot of free time.
+ Giving you Most Updated and Most widely used Programming Books only in this Blog.
+ 
+ 
+ [**C Programming Coding and Methods**](https://www.mediafire.com/file/4o8vfpjjztta5ya/C_Programming_Coding_and_Methods-1.pdf/file)
+ {:style="color:#505050; text-align: centre;"}
+ 
+ [**C Proramming for Beginners**](https://www.mediafire.com/file/em91qr38yvdz0dl/C_Programming_for_Beginners.pdf/file)
+ {:style="color:#505050; text-align: centre;"}
+ 
+ [**A Basic C Introduction**](https://www.mediafire.com/file/2j1yf2xlbhb1y9n/C_-_Introduction.pdf/file)
+ {:style="color:#505050; text-align: centre;"}
+ 
+ [**Using Libraries with C++**](https://www.mediafire.com/file/ok3vpknndeh4p5d/Using_Libraries_with_C++.pdf/file)
+ {:style="color:#505050; text-align: centre;"}
+
+ [**C++ Fresh Start**](https://www.mediafire.com/file/zfbuaugoch9ngsp/C++_-_Fresher.pdf/file)
+ {:style="color:#505050; text-align: centre;"}
+ 
+ [**C++ Primer Plus**](https://www.mediafire.com/file/0k6xvz8pj70ba5z/C++_-_Primer_Plus_%285th_Edition%29.pdf/file)
+ {:style="color:#505050; text-align: centre;"}
+ 
+ [**Complete Reference in C**](https://www.mediafire.com/file/csv7u0nihz8p3by/complete-reference-c1.pdf/file)
+  {:style="color:#505050; text-align: centre;"}
+  
+ [**Let Us C**](https://www.mediafire.com/file/ywpals1o5hx6a6l/Let_Us_C.pdf/file)-(Highly Recommended for beginners)
+ {:style="color:#505050; text-align: centre;"}
+ <br/>
+ [Request for Solution](mailto:admin@codewithdev.me)
+ 
+ [**Expert C Programming**](https://www.mediafire.com/file/56j97t3ovbbty6j/Expert_C_Programming.pdf/file)-(Recommended)
+ {:style="color:#505050; text-align: centre;"}
+ 
+ [**Cheltenham C Programming Tutorials***](https://www.mediafire.com/file/xnbkgl5goed8904/Cheltenham_Computer_Training_-_C_programming_%281997%29.pdf/file)
+ {:style="color:#505050; text-align: centre;"}
+ 
+ [**Understanding Pointer in C***](https://www.mediafire.com/file/z956h585u4i3utz/Yashavant_Kanetkar_-_Understanding_Pointers_in_C-BPB_Publications_%282003%29_2.pdf/file)
+ {:style="color:#505050; text-align: centre;"}
+ 
+ >***You can Request More books from*** [here](mailto:admin@codewithdev.me)
+ 
+ 
+ 
+ 
+ 
+  >**DO YOU LIKE THIS ?  BLOG KINDLY DONT FORGET TO SUBSCRIBE AND SHARE** :blush:
+  
+  **IF YOU WANT MORE BOOKS LIKE THIS DONT FORGET TO WRITE ME A MAIL**
+  
+  [***MAIL HERE WITH YOUR MESSAGE***](mailto:admin@codewithdev.me)
+ 
+ 
  
  
  
