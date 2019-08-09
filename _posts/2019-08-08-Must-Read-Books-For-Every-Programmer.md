@@ -7,7 +7,7 @@ tags: [programming, ebooks]
 categories: profile
 ---
 
- **Hi! ***Sophos
+ **Hi!** ***Sophos***
  
  Hope you are all doing well. In this blog I am going to tell you top Programming Books that you must read if you love Programming.
 All these books are highly recommended by the Top most Developers over the world while they still use for the purpose of Programming.All these Books are paid Versions.
@@ -33,7 +33,15 @@ All these books are highly recommended by the Top most Developers over the world
    * And Many More.
    
   <br/>
-  ###Le
+  [**Learn Java the Hard Way**](http://www.mediafire.com/file/3qkqp32xddozrf3/Jeff_Friesen_-_Learn_Java_for_Android_Development-Apress_%25282014%2529.pdf/file)
+  {:style="color:#505050; text-align: centre;"}
+  
+  <br/>
+  
+  [**Java For Android Development**](http://www.mediafire.com/file/3qkqp32xddozrf3/Jeff_Friesen_-_Learn_Java_for_Android_Development-Apress_%25282014%2529.pdf/file)
+  [:style="color:#505050; text-align: centre;]
+  
+  
   
  
  
