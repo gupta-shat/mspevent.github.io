@@ -26,11 +26,11 @@ According to Google Page Rank People Search for IDE like.
   *Let me Know you when you go to a car showroom to buy a car then you see lots of cars there. But You only choose one Car there which fulfills your expectation and features that you were looking for. The features could be anything like;
     
   
-   * *must be a fuel Efficient (I am not discussing about Buggatti or Ferrari here :stuck_out_tongue_closed_eyes:)
-   * *Eco Friendly
-   * *Comfort
-   * *Airbags
-   * *Fog lamps etc.
+   * must be a fuel Efficient (I am not discussing about Buggatti or Ferrari here :stuck_out_tongue_closed_eyes:)
+   * Eco Friendly
+   * Comfort
+   * Airbags
+   * Fog lamps etc.
    
    On the Basis of the features you choose, You might get the keys of your dream. :grin:
    
@@ -38,10 +38,10 @@ According to Google Page Rank People Search for IDE like.
    
    >**_Similarly and IDE( INTEGRATED DEVELOPMENT ENVIRONMENT) is a tool or Environment that provides the feature to Developers for their desired Programming Language like,_**
    
-   * *Easily maintainable
-   * *Code specialization
-   * *Best in case Compiler
-   * *Debugger
-   * *Good User Interface
+   * Easily maintainable
+   * Code specialization
+   * Best in case Compiler
+   * Debugger
+   * Good User Interface
     
     
