@@ -21,7 +21,7 @@ According to Google Page Rank People Search for IDE like.
 
 **I hope through this blog you will find the right IDE in the next couple of min**
 
- >***First let us know what is an IDE ?***
+   > ***First let us know what is an IDE ?***
   
   *Let me Know you when you go to a car showroom to buy a car then you see lots of cars there. But You only choose one Car there which fulfills your expectation and features that you were looking for. The features could be anything like;
     
@@ -36,7 +36,7 @@ According to Google Page Rank People Search for IDE like.
    
    COMING Back, 
    
-   >**_Similarly and IDE( INTEGRATED DEVELOPMENT ENVIRONMENT) is a tool or Environment that provides the feature to Developers for their desired Programming Language like,_**
+   > **_Similarly and IDE( INTEGRATED DEVELOPMENT ENVIRONMENT) is a tool or Environment that provides the feature to Developers for their desired Programming Language like,_**
    
    * Easily maintainable
    * Code specialization
