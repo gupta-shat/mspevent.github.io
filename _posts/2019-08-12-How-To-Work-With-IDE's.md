@@ -95,8 +95,8 @@ The History behind the IDE creator is so Complex I am hiding that and jumping in
   ![codeblocks](/images/7.jpg)
   
   [Code::blocks](https://www.activestate.com/products/komodo-ide/)Obviously it is one of the famous IDE for the language like C, C++, Fortran. In the Back 2007 it became popular among the developers around the world. It is a highly customizable IDE that performs consistently across all platforms, so it is great for developers who frequently switch between workspaces.
- 
- ## Additional Features
+   
+   ## Additional Features
  
  * Easy-to-navigate tabbed interface including a list of open files
  * Compatible with Linux, Mac, and Windows
