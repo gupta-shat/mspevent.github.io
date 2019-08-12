@@ -21,9 +21,9 @@ According to Google Page Rank People Search for IDE like.
 
 **I hope through this blog you will find the right IDE in the next couple of min**
 
-   > ***First let us know what is an IDE ?***
+   > **First let us know what is an IDE ?**
   
-  *Let me Know you when you go to a car showroom to buy a car then you see lots of cars there. But You only choose one Car there which fulfills your expectation and features that you were looking for. The features could be anything like;
+  **Let me Know you when you go to a car showroom to buy a car then you see lots of cars there. But You only choose one Car there which fulfills your expectation and features that you were looking for. The features could be anything like;**
     
   
    * must be a fuel Efficient (I am not discussing about Buggatti or Ferrari here :stuck_out_tongue_closed_eyes:)
@@ -36,7 +36,7 @@ According to Google Page Rank People Search for IDE like.
    
    COMING Back, 
    
-   > **_Similarly and IDE( INTEGRATED DEVELOPMENT ENVIRONMENT) is a tool or Environment that provides the feature to Developers for their desired Programming Language like,_**
+   > **Similarly and IDE( INTEGRATED DEVELOPMENT ENVIRONMENT) is a tool or Environment that provides the feature to Developers for their desired Programming Language like,**
    
    * Easily maintainable
    * Code specialization
@@ -57,7 +57,7 @@ The History behind the IDE creator is so Complex I am hiding that and jumping in
 
 ### Additional Features
 
- #### *It Supports ASP.NET, DHTML, JavaScript, JScript, Visual Basic, Visual C#, Visual C++, Visual F#, XAML and more
+ #### It Supports ASP.NET, DHTML, JavaScript, JScript, Visual Basic, Visual C#, Visual C++, Visual F#, XAML and more
   
   * It supports massive library of extension
   * Customizable Dasboard
@@ -73,13 +73,13 @@ The History behind the IDE creator is so Complex I am hiding that and jumping in
 
 # 2. Pycharm
 
-![Pycarm JetBrains](/images/6.jpg)
+![Pycarm JetBrains](/images/6.png)
 
 [iPyCharm](https://www.jetbrains.com/pycharm/) Simply Pycharm is developed by the folks over at Jet Brains and provides users a free Community Edition, 30-day free trial for the Professional Edition, $213 - $690 for an annual subscription. Comprehensive code assistance and analysis make PyCharm the best IDE for Python programmers of all ability levels. PyCharm also supports other languages and works on multiple platforms, so practically anyone can use it.
 
-## Additional Features
+  ## Additional Features
    
-   #### *It supports AngularJS, Coffee Script, CSS, Cython, HTML, JavaScript, Node.js, Python, TypeScript and template languages.
+   #### It supports AngularJS, Coffee Script, CSS, Cython, HTML, JavaScript, Node.js, Python, TypeScript and template languages.
    
   * It is compatible with Windows, Linux and Mac OS
   * Easy to integrate with Git, Mercurial and SVN
@@ -97,7 +97,7 @@ The History behind the IDE creator is so Complex I am hiding that and jumping in
   
   [Code::blocks](https://www.activestate.com/products/komodo-ide/)Obviously it is one of the famous IDE for the language like C, C++, Fortran. In the Back 2007 it became popular among the developers around the world. It is a highly customizable IDE that performs consistently across all platforms, so it is great for developers who frequently switch between workspaces.
  
- #### Additional Features
+  ## Additional Features
  
  * Easy-to-navigate tabbed interface including a list of open files
  * Compatible with Linux, Mac, and Windows
