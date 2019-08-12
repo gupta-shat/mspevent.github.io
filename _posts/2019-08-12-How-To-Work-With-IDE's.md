@@ -50,7 +50,7 @@ The History behind the IDE creator is so Complex I am hiding that and jumping in
 
 ## Microsoft Visual Studio
 
-![Microsoft Visual studio](/path/to/5.png)
+![Microsoft Visual studio](/images/5.png)
 
 Microsoft Visual Studio  is one of the Best in the IDE's category.Talking about pricing it  ranges from $699 - $2,900 depending on the edition and licensing. The many editions of this IDE are capable of creating all types of programs like whether you are creating a web application or Mobile Apps or more if you are creating a Game.This series of software includes tons of tools for compatibility testing so that you can see how your apps run on more than 500 devices and browsers. Thanks to its flexibility, Visual Studio is a great tool for both students and professionals.
 
