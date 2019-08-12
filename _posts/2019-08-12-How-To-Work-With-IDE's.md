@@ -59,15 +59,19 @@ Microsoft Visual Studio  is one of the Best in the IDE's category.Talking about 
 
 **It Supports ASP.NET, DHTML, JavaScript, JScript, Visual Basic, Visual C#, Visual C++, Visual F#, XAML and more
   
-  * **It supports massive library of extension
-  * **Customizable Dasboard
-  * **Real time Deploying and Enhanced Workflow
-  * **Automation Tools
-  * **Split Screen supports
-  * **Listing of Errors that allows debugging.
-  * **A Publish Wizard with approval checks and Windows installer.
-  * **Real time Monitor Performance support
+  * It supports massive library of extension
+  * Customizable Dasboard
+  * Real time Deploying and Enhanced Workflow
+  * Automation Tools
+  * Split Screen supports
+  * Listing of Errors that allows debugging.
+  * A Publish Wizard with approval checks and Windows installer.
+  * Real time Monitor Performance support
   
   while it has some cons like its heavyweight IDE that requires considerable compatibility to open and run.But for creating a simple application, it may be time consuming on some devices.
+  
+  
+  
+  
   
   
