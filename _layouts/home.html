@@ -21,9 +21,13 @@ layout: default
       <a href="https://twitter.com/intent/user?screen_name={{ site.social-twitter }}" class="c-btn c-btn--primary c-btn--round c-btn--shadow"><span data-icon='ei-sc-twitter' data-size='s'></span> Follow me</a>
       {% else %}
       {% endif %}
-      {% includes heart.html %}
     </div>
     <p class="c-author__about">{{site.about-author | strip_html | truncatewords: 50}}</p>
+    <div class="c-more-love">
+      {%if site.author-payment %}
+      <a href= "https://stripe.com={{site.donate-codewithdev }}" class= "c-btn--primary c-btn--round c-btn--shadow"><span data-icon='ei-heart' data-size='L'></span>
+      {% else %}
+      {% endif %}
   </div>
 
   <div class="c-sidebar-footer">
