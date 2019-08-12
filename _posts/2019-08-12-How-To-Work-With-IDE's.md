@@ -54,11 +54,10 @@ The History behind the IDE creator is so Complex I am hiding that and jumping in
 
 [Microsoft Visual Studio](https://visualstudio.microsoft.com/)s one of the Best in the IDE's category.Talking about pricing it  ranges from $699 - $2,900 depending on the edition and licensing. The many editions of this IDE are capable of creating all types of programs like whether you are creating a web application or Mobile Apps or more if you are creating a Game.This series of software includes tons of tools for compatibility testing so that you can see how your apps run on more than 500 devices and browsers. Thanks to its flexibility, Visual Studio is a great tool for both students and professionals.
 
+## Additional Features
 
-### Additional Features
+#### It Supports ASP.NET, DHTML, JavaScript, JScript, Visual Basic, Visual C#, Visual C++, Visual F#, XAML and more
 
- #### It Supports ASP.NET, DHTML, JavaScript, JScript, Visual Basic, Visual C#, Visual C++, Visual F#, XAML and more
-  
   * It supports massive library of extension
   * Customizable Dasboard
   * Real time Deploying and Enhanced Workflow
@@ -77,9 +76,9 @@ The History behind the IDE creator is so Complex I am hiding that and jumping in
 
 [iPyCharm](https://www.jetbrains.com/pycharm/) Simply Pycharm is developed by the folks over at Jet Brains and provides users a free Community Edition, 30-day free trial for the Professional Edition, $213 - $690 for an annual subscription. Comprehensive code assistance and analysis make PyCharm the best IDE for Python programmers of all ability levels. PyCharm also supports other languages and works on multiple platforms, so practically anyone can use it.
 
-  ## Additional Features
+## Additional Features
    
-   #### It supports AngularJS, Coffee Script, CSS, Cython, HTML, JavaScript, Node.js, Python, TypeScript and template languages.
+#### It supports AngularJS, Coffee Script, CSS, Cython, HTML, JavaScript, Node.js, Python, TypeScript and template languages.
    
   * It is compatible with Windows, Linux and Mac OS
   * Easy to integrate with Git, Mercurial and SVN
@@ -97,7 +96,7 @@ The History behind the IDE creator is so Complex I am hiding that and jumping in
   
   [Code::blocks](https://www.activestate.com/products/komodo-ide/)Obviously it is one of the famous IDE for the language like C, C++, Fortran. In the Back 2007 it became popular among the developers around the world. It is a highly customizable IDE that performs consistently across all platforms, so it is great for developers who frequently switch between workspaces.
  
-  ## Additional Features
+ ## Additional Features
  
  * Easy-to-navigate tabbed interface including a list of open files
  * Compatible with Linux, Mac, and Windows
@@ -115,7 +114,7 @@ The History behind the IDE creator is so Complex I am hiding that and jumping in
  
 # 4. Komodo
 
-![Komodo](/images/8.jpg)
+![Komodo](/images/8.png)
 
 [Komodo](https://www.activestate.com/products/komodo-ide/) offers a free 21-day trial and costs between $99 - $1615 depending on the edition and licensing. Practically any programmer can use Komodo because it supports most major programming languages. The streamlined interface allows for advanced editing, and small perks like the Syntax Checker and single-step debugging make Komodo one of the most popular IDEs for web and mobile development.
 
