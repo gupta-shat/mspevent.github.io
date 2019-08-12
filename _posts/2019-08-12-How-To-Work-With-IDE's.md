@@ -43,5 +43,31 @@ According to Google Page Rank People Search for IDE like.
    * Best in case Compiler
    * Debugger
    * Good User Interface
+   * Code Centric Text Editor
     
-    
+The History behind the IDE creator is so Complex I am hiding that and jumping in to the top IDE which are currentlt becoming hotter in the Market.
+
+
+## Microsoft Visual Studio
+
+{% images 5.jpg %}
+
+Microsoft Visual Studio  is one of the Best in the IDE's category.Talking about pricing it  ranges from $699 - $2,900 depending on the edition and licensing. The many editions of this IDE are capable of creating all types of programs like whether you are creating a web application or Mobile Apps or more if you are creating a Game.This series of software includes tons of tools for compatibility testing so that you can see how your apps run on more than 500 devices and browsers. Thanks to its flexibility, Visual Studio is a great tool for both students and professionals.
+
+
+### Basic Functionality
+
+**It Supports ASP.NET, DHTML, JavaScript, JScript, Visual Basic, Visual C#, Visual C++, Visual F#, XAML and more
+  
+  * **It supports massive library of extension
+  * **Customizable Dasboard
+  * **Real time Deploying and Enhanced Workflow
+  * **Automation Tools
+  * **Split Screen supports
+  * **Listing of Errors that allows debugging.
+  * **A Publish Wizard with approval checks and Windows installer.
+  * **Real time Monitor Performance support
+  
+  while it has some cons like its heavyweight IDE that requires considerable compatibility to open and run.But for creating a simple application, it may be time consuming on some devices.
+  
+  
