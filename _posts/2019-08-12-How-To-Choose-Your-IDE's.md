@@ -176,6 +176,34 @@ It supports  C, C++, Java, Perl, PHP, Python, Ruby and more.
 Comparing to IntelliJ IDEA it is Completely Open Source. While Feature lies somewhere distinct.
 
 
+# 7. Spyder 
+![Spyder](/images/11.jpg)
+
+When you come up with [cross-platform](https://www.techopedia.com/definition/30026/cross-platform-development) IDE how can we forget [Spyder](https://www.spyder-ide.org/). Spyder is one of its open Source Cross-platform IDE for the Python scientific development. Initially created and developed by Pierre Raybaut in 2009, and it is maintained continiously since 2012.Spyder is exentensible with first and Third party plugins which includes support for interactive tools for data interpretation and embeds python code quality.
+
+#### Additional Features
+
+It supports Python(3.0 and 3.5).
+
+* Ability to explore the code from GUI
+* Supports for iPython multiple controls
+* A runtime Compiler for benchmark code.
+* Project Support allowing work on multiple development.
+* Syntax highlighting
+* An internal console for inspecting the spyder operation.
+
+It is lightweight and Open source while it fails to optimize the user interface for some reasons.
+
+
+# Finding the Best IDE for Your Needs#
+
+As you can see, the best IDE for you depends on your operating system, your programming language of choice and which platforms you wish to develop for. Finding the right fit is really an ongoing process. Your options are practically limitless, so it may be helpful to make a list of your preferences and then searching for the IDE that most closely matches your needs. While every developer has their favorite software, don’t be afraid to branch out as the world of IDEs is always expanding.
+
+Did we miss any important IDEs? Let us know in the comments section what your favorite IDE is.
+
+
+
+
 
 
   
