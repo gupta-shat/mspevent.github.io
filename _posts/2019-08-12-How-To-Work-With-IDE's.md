@@ -54,7 +54,7 @@ The History behind the IDE creator is so Complex I am hiding that and jumping in
 
 [Microsoft Visual Studio](https://visualstudio.microsoft.com/)s one of the Best in the IDE's category.Talking about pricing it  ranges from $699 - $2,900 depending on the edition and licensing. The many editions of this IDE are capable of creating all types of programs like whether you are creating a web application or Mobile Apps or more if you are creating a Game.This series of software includes tons of tools for compatibility testing so that you can see how your apps run on more than 500 devices and browsers. Thanks to its flexibility, Visual Studio is a great tool for both students and professionals.
 
-### Additional Features
+#### Additional Features
 
 #### It Supports ASP.NET, DHTML, JavaScript, JScript, Visual Basic, Visual C#, Visual C++, Visual F#, XAML and more
 
@@ -76,7 +76,7 @@ The History behind the IDE creator is so Complex I am hiding that and jumping in
 
 [iPyCharm](https://www.jetbrains.com/pycharm/) Simply Pycharm is developed by the folks over at Jet Brains and provides users a free Community Edition, 30-day free trial for the Professional Edition, $213 - $690 for an annual subscription. Comprehensive code assistance and analysis make PyCharm the best IDE for Python programmers of all ability levels. PyCharm also supports other languages and works on multiple platforms, so practically anyone can use it.
 
-### Additional Features
+#### Additional Features
    
 #### It supports AngularJS, Coffee Script, CSS, Cython, HTML, JavaScript, Node.js, Python, TypeScript and template languages.
    
@@ -138,7 +138,7 @@ It supports Language like CSS, HTML, GO, JavaScript,NodeJS, PerlPHP, Python,Ruby
 
 [IntelliJ IDEA](https://www.jetbrains.com/idea/) Another one from the JetBrains. Which is Popular these days. It is specifically designed to maximize the developers productivity.It has intelligent Code Scripting and autoformating that give its a best in class of IDE.It supports and contains scalable features of [JVM](https://en.wikipedia.org/wiki/Java_virtual_machine) that supports Java, Scala, Kotlin, and Groovy. It is also one of the great platform for Web Development and Mobile Development.For the professional Development or for IntelliJ IDEA Ultimate its pricing rely from $499 to $649.
 
-#### Adiitional Feature
+#### Additional Feature
 
 It is Git Ready IDE  for version Control and compiler Coverage. It supports JAVA, JavaScript, Android,Cordova,TypeScript and more frameworks.
 * Extensive database editor and UML designer
