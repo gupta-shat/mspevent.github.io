@@ -50,7 +50,7 @@ The History behind the IDE creator is so Complex I am hiding that and jumping in
 
 ## Microsoft Visual Studio
 
-![Microsoft Visual studio](/images/5.png)
+                                       ![Microsoft Visual studio](/images/5.png)
 
 [Microsoft Visual Studio](https://visualstudio.microsoft.com/)s one of the Best in the IDE's category.Talking about pricing it  ranges from $699 - $2,900 depending on the edition and licensing. The many editions of this IDE are capable of creating all types of programs like whether you are creating a web application or Mobile Apps or more if you are creating a Game.This series of software includes tons of tools for compatibility testing so that you can see how your apps run on more than 500 devices and browsers. Thanks to its flexibility, Visual Studio is a great tool for both students and professionals.
 
@@ -72,9 +72,11 @@ The History behind the IDE creator is so Complex I am hiding that and jumping in
 
 # 2. Pycharm
 
-![Pycarm JetBrains](/images/6.png)
+                                              ![Pycarm JetBrains](/images/6.png)
+
 
 [iPyCharm](https://www.jetbrains.com/pycharm/) Simply Pycharm is developed by the folks over at Jet Brains and provides users a free Community Edition, 30-day free trial for the Professional Edition, $213 - $690 for an annual subscription. Comprehensive code assistance and analysis make PyCharm the best IDE for Python programmers of all ability levels. PyCharm also supports other languages and works on multiple platforms, so practically anyone can use it.
+
 
 #### Additional Features
    
@@ -92,7 +94,7 @@ The History behind the IDE creator is so Complex I am hiding that and jumping in
    
 # 3. Code::Blocks
 
-  ![codeblocks](/images/7.jpg)
+                                           ![codeblocks](/images/7.jpg)
   
   [Code::blocks](https://www.activestate.com/products/komodo-ide/)Obviously it is one of the famous IDE for the language like C, C++, Fortran. In the Back 2007 it became popular among the developers around the world. It is a highly customizable IDE that performs consistently across all platforms, so it is great for developers who frequently switch between workspaces.
 
@@ -114,7 +116,8 @@ The History behind the IDE creator is so Complex I am hiding that and jumping in
  
 # 4. Komodo
 
-![Komodo](/images/8.png)
+                                               ![Komodo](/images/8.png)
+                                               
 
 [Komodo](https://www.activestate.com/products/komodo-ide/) offers a free 21-day trial and costs between $99 - $1615 depending on the edition and licensing. Practically any programmer can use Komodo because it supports most major programming languages. The streamlined interface allows for advanced editing, and small perks like the Syntax Checker and single-step debugging make Komodo one of the most popular IDEs for web and mobile development.
 
@@ -177,7 +180,7 @@ Comparing to IntelliJ IDEA it is Completely Open Source. While Feature lies some
 
 
 # 7. Spyder 
-![Spyder](/images/11.jpg)
+                                              ![Spyder](/images/11.jpg)
 
 When you come up with [cross-platform](https://www.techopedia.com/definition/30026/cross-platform-development) IDE how can we forget [Spyder](https://www.spyder-ide.org/). Spyder is one of its open Source Cross-platform IDE for the Python scientific development. Initially created and developed by Pierre Raybaut in 2009, and it is maintained continiously since 2012.Spyder is exentensible with first and Third party plugins which includes support for interactive tools for data interpretation and embeds python code quality.
 
