@@ -198,7 +198,7 @@ Whether you are beginner to porgramming, or you are a professional Programmer ev
   
   **IF YOU WANT MORE BOOKS LIKE THIS DONT FORGET TO WRITE ME A MAIL**
   
-  [***MAIL HERE WITH YOUR MESSAGE***](mailto:admin@codewithdev.me)
+  ***Comment out if you liked our articles, and tell me which Books is gonna make a change in the Software development***
  
  
  
