@@ -40,8 +40,7 @@ plugins:
   - jekyll-feed
   - jekyll-compose
 
-plugins:
-  - jemoji  
+gems: ["jemoji"]  
 
 paginate: 5
 paginate_path: "/page/:num/"
