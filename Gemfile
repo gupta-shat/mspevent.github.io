@@ -3,7 +3,7 @@ source "https://rubygems.org"
 gem 'bundler'
 gem 'jekyll'
 gem 'jekyll-paginate'
-gem 'jemoji'
+gem "gemoji", "~> 2.1.0"
 gem 'jekyll-feed'
 gem 'jekyll-compose', group:[:jekyll_plugins]
 
