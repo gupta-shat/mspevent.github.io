@@ -198,7 +198,7 @@ It supports Python(3.0 and 3.5).
 It is lightweight and Open source while it fails to optimize the user interface for some reasons.
 
 
-# Finding the Best IDE for Your Needs#
+# Finding the Best IDE for Your Needs
 
 As you can see, the best IDE for you depends on your operating system, your programming language of choice and which platforms you wish to develop for. Finding the right fit is really an ongoing process. Your options are practically limitless, so it may be helpful to make a list of your preferences and then searching for the IDE that most closely matches your needs. While every developer has their favorite software, don’t be afraid to branch out as the world of IDEs is always expanding.
 
