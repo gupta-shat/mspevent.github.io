@@ -54,7 +54,7 @@ The History behind the IDE creator is so Complex I am hiding that and jumping in
 
 [Microsoft Visual Studio](https://visualstudio.microsoft.com/)s one of the Best in the IDE's category.Talking about pricing it  ranges from $699 - $2,900 depending on the edition and licensing. The many editions of this IDE are capable of creating all types of programs like whether you are creating a web application or Mobile Apps or more if you are creating a Game.This series of software includes tons of tools for compatibility testing so that you can see how your apps run on more than 500 devices and browsers. Thanks to its flexibility, Visual Studio is a great tool for both students and professionals.
 
-### Additional Feeatures
+#### Additional Feeatures
 
 #### It Supports ASP.NET, DHTML, JavaScript, JScript, Visual Basic, Visual C#, Visual C++, Visual F#, XAML and more
 
@@ -76,7 +76,7 @@ The History behind the IDE creator is so Complex I am hiding that and jumping in
 
 [iPyCharm](https://www.jetbrains.com/pycharm/) Simply Pycharm is developed by the folks over at Jet Brains and provides users a free Community Edition, 30-day free trial for the Professional Edition, $213 - $690 for an annual subscription. Comprehensive code assistance and analysis make PyCharm the best IDE for Python programmers of all ability levels. PyCharm also supports other languages and works on multiple platforms, so practically anyone can use it.
 
-### Additional Features
+#### Additional Features
    
 #### It supports AngularJS, Coffee Script, CSS, Cython, HTML, JavaScript, Node.js, Python, TypeScript and template languages.
    
@@ -96,7 +96,7 @@ The History behind the IDE creator is so Complex I am hiding that and jumping in
   
   [Code::blocks](https://www.activestate.com/products/komodo-ide/)Obviously it is one of the famous IDE for the language like C, C++, Fortran. In the Back 2007 it became popular among the developers around the world. It is a highly customizable IDE that performs consistently across all platforms, so it is great for developers who frequently switch between workspaces.
   
-  ### Additional Features
+  #### Additional Features
  
  * Easy-to-navigate tabbed interface including a list of open files
  * Compatible with Linux, Mac, and Windows
@@ -118,7 +118,7 @@ The History behind the IDE creator is so Complex I am hiding that and jumping in
 
 [Komodo](https://www.activestate.com/products/komodo-ide/) offers a free 21-day trial and costs between $99 - $1615 depending on the edition and licensing. Practically any programmer can use Komodo because it supports most major programming languages. The streamlined interface allows for advanced editing, and small perks like the Syntax Checker and single-step debugging make Komodo one of the most popular IDEs for web and mobile development.
 
-### Aditional Features
+#### Aditional Features
 
 It supports Language like CSS, HTML, GO, JavaScript,NodeJS, PerlPHP, Python,Ruby, TCL and more.
 
@@ -138,7 +138,7 @@ It supports Language like CSS, HTML, GO, JavaScript,NodeJS, PerlPHP, Python,Ruby
 
 [IntelliJ IDEA](https://www.jetbrains.com/idea/) Another one from the JetBrains. Which is Popular these days. It is specifically designed to maximize the developers productivity.It has intelligent Code Scripting and autoformating that give its a best in class of IDE.It supports and contains scalable features of [JVM](https://en.wikipedia.org/wiki/Java_virtual_machine) that supports Java, Scala, Kotlin, and Groovy. It is also one of the great platform for Web Development and Mobile Development.For the professional Development or for IntelliJ IDEA Ultimate its pricing rely from $499 to $649.
 
-### Adiitional Feature
+#### Adiitional Feature
 
 It is Git Ready IDE  for version Control and compiler Coverage. It supports JAVA, JavaScript, Android,Cordova,TypeScript and more frameworks.
 * Extensive database editor and UML designer
@@ -162,7 +162,7 @@ While it is becoming popular, it contains some handy shortcut keys on which deve
 
 [Eclipse](https://www.eclipse.org/ide/) is a free and flexible open source editor useful for beginners and pros alike. Originally a Java environment, Eclipse now has a wide range of capabilities thanks to a large number of plug-ins and extensions. In addition to debugging tools and Git/CVS support, the standard edition of Eclipse comes with Java and Plugin Development Tooling. If that’s not enough for you, there’s plenty of other packages to choose from that include tools for charting, modeling, reporting, testing and building GUIs. The Eclipse Marketplace Client gives users access to a treasure trove of plugins and information supplied by an expanding community of developers.
 
-### Additional Features
+#### Additional Features
 
 It supports  C, C++, Java, Perl, PHP, Python, Ruby and more.
 
