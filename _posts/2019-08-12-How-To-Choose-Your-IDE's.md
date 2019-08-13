@@ -14,10 +14,8 @@ We spent a lot of time on Internet and searching the Keyword like:
   * Which is best IDE for Java?
   * Which is the best IDE for Visual C?
  
-and blah...blah...blah! Do you also search the same? :confused: Sometime we get confused! And dont get the right result. 
-According to Google Page Rank People Search for IDE like.
+Do you also search the same? :confused: 
 
-{% include rank.html %}
 
 **I hope through this blog you will find the right IDE in the next couple of min**
 
