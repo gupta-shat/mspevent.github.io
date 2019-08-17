@@ -32,7 +32,7 @@ It is very easy to install, and having commands which can easily fit in your han
 
 #### Steps Involved to install Git
  <ol>
-  <li>Go to [Git Download](https://git-scm/downloads/) and Intall according to your system requirement.</li>
+  <li>Go to [Git-Download](https://git-scm/downloads/) and Intall according to your system requirement.</li>
   <li>After completing Installation Check by `Clicking Right on Desktop` and it will be showing `Git Bash here` and `Git GUI Here`.</li>
   
   ***Congratualtions!*** You've successfully installed the Git in your System.
