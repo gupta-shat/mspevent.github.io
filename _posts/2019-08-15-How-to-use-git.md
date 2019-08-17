@@ -18,6 +18,7 @@ and proved like a boon to every developer.
  
 <br/>
 ### What is Git?
+{: style="color:#505050; text-align: center;"}
 ![](/images/hero.svg){: .center-image }
  
  As seen above the benefits of Version Control. And it would be worthwhile to say that without version-control it might seems to latency in Software Industry. Well, To use the version-control it must need a Software or Program that include and contains version Control System(VCS). [***Git***](https://git-scm/downloads/) is one of them. 
