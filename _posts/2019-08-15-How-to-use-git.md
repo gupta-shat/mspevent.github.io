@@ -21,9 +21,23 @@ and proved like a boon to every developer.
 {: style="color:#505050; text-align: center;"}
 ![](/images/hero.svg){: .center-image }
  
- As seen above the benefits of Version Control. And it would be worthwhile to say that without version-control it might seems to latency in Software Industry. Well, To use the version-control it must need a Software or Program that include and contains version Control System(VCS).
- [**Git**](https://git-scm/downloads/) is one of them. By far, the most widely used modern version control system in the world today is Git. Git is originally developed by Linux OS founder and Creator 'Linus Torvalds' in 2005. And as well the basic commands and its Bash system gives same feel of Linux OS. That ought to be beneficial for the Linux User. From now Git has taken its shape completely over the World. Having a distributed architecture, Git is an example of a DVCS (hence Distributed Version Control System). Talking about features it has Performance, flexibility, security. 
+ 
+ 
+ [**Git**](https://git-scm/downloads/) is an open Source Version Control Software which has performance, flexibility, and security. 
+   Git is originally developed by Linux OS founder and Creator 'Linus Torvalds' in 2005. And as well the basic commands and its Bash system gives same feel of Linux OS. That ought to be beneficial for the Linux User. From now Git has taken its shape completely over the World. 
+   
+#### How do you plan to Use Git?
+
+It is very easy to install, and having commands which can easily fit in your hand.
+
+#### Steps Involved to install Git
+ <ol>
+  <li>Go to [Git Download](https://git-scm/downloads/) and Intall according to your system requirement.</li>
+  <li>After completing Installation Check by `Clicking Right on Desktop` and it will be showing `Git Bash here` and `Git GUI Here`.</li>
+  
+  ***Congratualtions!*** You've successfully installed the Git in your System.
+  
+  
     
-*Before*, we start listing basic commands of `Git` Lets see how to install Git for your System.
 
 
