@@ -24,17 +24,17 @@ and proved like a boon to every developer.
  
  
  [**Git**](https://git-scm/downloads/) is an open Source Version Control Software which has performance, flexibility, and security. 
-   Git is originally developed by Linux OS founder and Creator 'Linus Torvalds' in 2005. And as well the basic commands and its Bash system gives same feel of Linux OS. That ought to be beneficial for the Linux User. From now Git has taken its shape completely over the World. 
+   Git is originally developed by Linux OS founder and Creator 'Linus Torvalds' in 2005. And as well the basic commands and its Bash system gives same feel of Linux OS. That ought to be beneficial for the Linux User. From now Git has taken its shape completely in the Software industry. 
    
 #### How do you plan to Use Git?
 
-It is very easy to install, and having commands which can easily fit in your hand.
+It is very easy to install, and the some commands which can easily fit in your hand.
 
 #### Steps Involved to install Git
  <ol>
   <li>Go to [Git-Download](https://git-scm/downloads/) and Intall according to your system requirement.</li>
   <li>After completing Installation Check by `Clicking Right on Desktop` and it will be showing `Git Bash here` and `Git GUI Here`.</li>
-  
+  </ol>
   ***Congratualtions!*** You've successfully installed the Git in your System.
   
   
