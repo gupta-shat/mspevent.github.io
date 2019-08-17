@@ -26,5 +26,4 @@ and proved like a boon to every developer.
     
 *Before*, we start listing basic commands of `Git` Lets see how to install Git for your System.
 
-Watch the Video to know how to ready your System for Git?
 
