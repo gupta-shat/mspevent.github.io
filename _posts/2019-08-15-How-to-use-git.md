@@ -21,7 +21,10 @@ and proved like a boon to every developer.
 {: style="color:#505050; text-align: center;"}
 ![](/images/hero.svg){: .center-image }
  
- As seen above the benefits of Version Control. And it would be worthwhile to say that without version-control it might seems to latency in Software Industry. Well, To use the version-control it must need a Software or Program that include and contains version Control System(VCS). [***Git***](https://git-scm/downloads/) is one of them. 
- 
+ As seen above the benefits of Version Control. And it would be worthwhile to say that without version-control it might seems to latency in Software Industry. Well, To use the version-control it must need a Software or Program that include and contains version Control System(VCS).
+ [**Git**](https://git-scm/downloads/) is one of them. By far, the most widely used modern version control system in the world today is Git. Git is originally developed by Linux OS founder and Creator 'Linus Torvalds' in 2005. And as well the basic commands and its Bash system gives same feel of Linux OS. That ought to be beneficial for the Linux User. From now Git has taken its shape completely over the World. Having a distributed architecture, Git is an example of a DVCS (hence Distributed Version Control System). Talking about features it has Performance, flexibility, security. 
+    
+*Before*, we start listing basic commands of `Git` Lets see how to install Git for your System.
+
 Watch the Video to know how to ready your System for Git?
 
