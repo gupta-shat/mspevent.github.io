@@ -31,10 +31,9 @@ and proved like a boon to every developer.
 It is very easy to install, and the some commands which can easily fit in your hand.
 
 #### Steps Involved to install Git
- <ol>
-  <li>Go to [Git-Download](https://git-scm/downloads/) and Intall according to your system requirement.</li>
-  <li>After completing Installation Check by `Clicking Right on Desktop` and it will be showing `Git Bash here` and `Git GUI Here`.</li>
-  </ol>
+ * Go to [Git-Download](https://git-scm/downloads/) and Intall according to your system requirement.</li>
+ * After completing Installation Check by `Clicking Right on Desktop` and it will be showing `Git Bash here` and `Git GUI Here`.</li>
+ 
   ***Congratualtions!*** You've successfully installed the Git in your System.
   
   
