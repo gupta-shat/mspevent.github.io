@@ -28,10 +28,10 @@ and proved like a boon to every developer.
    
 #### How do you plan to Use Git?
 
-It is very easy to install, and the some commands which can easily fit in your hand.
+It is very easy to install, and some commands which can easily fit in your hand.
 
 #### Steps Involved to install Git
- * Go to [Git-Download](https://git-scm/downloads/) and Intall according to your system requirement.</li>
+ * Go to [Git-Download](https://git-scm/downloads/) and Intall according to your system requirement.
  * After completing Installation Check by `Clicking Right on Desktop` and it will be showing `Git Bash here` and `Git GUI Here`.
  
  ![View](/images/capture.JPG)
