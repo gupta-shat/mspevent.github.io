@@ -38,7 +38,7 @@ It is very easy to install, and some commands which can easily fit in your hand.
  
  Thank You ***Linus Torvalds*** for giving `Git Bash Here` Because it gives me the feel of **Linux Interface**. 
  
-And soon you will addicted to see this screen :
+And soon you will be addicted to see this screen :
  ![screen](/images/capture1.JPG)
  
   ***Congratualtions!*** You've successfully installed the Git in your System.
