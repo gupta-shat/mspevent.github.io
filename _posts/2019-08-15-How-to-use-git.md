@@ -34,7 +34,7 @@ It is very easy to install, and the some commands which can easily fit in your h
  * Go to [Git-Download](https://git-scm/downloads/) and Intall according to your system requirement.</li>
  * After completing Installation Check by `Clicking Right on Desktop` and it will be showing `Git Bash here` and `Git GUI Here`.
  
- ![View](/images/capture.jpg)
+ ![View](/images/capture.png)
  
  Thank You ***Linus Torvalds*** for giving `Git Bash Here` Because it gives me the feel of **Linux Interface**. 
  
