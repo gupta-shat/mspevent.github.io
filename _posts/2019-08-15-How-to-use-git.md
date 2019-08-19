@@ -11,7 +11,7 @@ In this blog we will discuss about what is 'Version Control' and Everything abou
 So let's first talk about what is 'Version Control'?
   
   
-  **Basically, when a software developer develops a new software then he often do some changes and occassionally to track the record of 
+  **So,Basically, when a software developer develops a new software then he often do some changes and occassionally to track the record of 
 the coding and to control the versions of the software he uses the term 'Version Control'. Simply the technology has changed everything
 and proved like a boon to every developer. 
  Version control System keeps track of every modification to the code in a special kind of database. If a mistake is made, developers can turn back the clock and compare earlier versions of the code to help fix the mistake while minimizing disruption to all team members.So testing and development proceed together until a new version is ready.**
@@ -34,7 +34,7 @@ It is very easy to install, and the some commands which can easily fit in your h
  * Go to [Git-Download](https://git-scm/downloads/) and Intall according to your system requirement.</li>
  * After completing Installation Check by `Clicking Right on Desktop` and it will be showing `Git Bash here` and `Git GUI Here`.
  
- ![View](/images/capture.png)
+ ![View](/images/capture.JPG)
  
  Thank You ***Linus Torvalds*** for giving `Git Bash Here` Because it gives me the feel of **Linux Interface**. 
  
