@@ -32,9 +32,19 @@ It is very easy to install, and the some commands which can easily fit in your h
 
 #### Steps Involved to install Git
  * Go to [Git-Download](https://git-scm/downloads/) and Intall according to your system requirement.</li>
- * After completing Installation Check by `Clicking Right on Desktop` and it will be showing `Git Bash here` and `Git GUI Here`.</li>
+ * After completing Installation Check by `Clicking Right on Desktop` and it will be showing `Git Bash here` and `Git GUI Here`.
+ 
+ ![View](/images/capture.jpg)
+ 
+ Thank You ***Linus Torvalds*** for giving `Git Bash Here` Because it gives me the feel of **Linux Interface**. 
+ 
+And you will soon addict to this screen :
+   ![screen](images/capture1.jpg)
  
   ***Congratualtions!*** You've successfully installed the Git in your System.
+  
+  
+  #### First Impression is the Last Impression
   
   
     
