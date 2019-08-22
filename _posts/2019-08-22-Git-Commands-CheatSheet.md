@@ -22,7 +22,7 @@ Here We Go! The Git Commands CheatSheet is here...
  
  
  
- #### Basic Path Commands( Similar to Command Prompt Commands)
+#### Basic Path Commands( Similar to Command Prompt Commands)
  
  1. `cd <space><path>`: To change the directory or to jump from one directory to another Directory.
  
@@ -30,14 +30,15 @@ Here We Go! The Git Commands CheatSheet is here...
  
  3. `touch<space><filename>`: To create a file on specified Path.
  
- #### Configuration & Settings
+ 
+#### Configuration & Settings
  
  1. `git --version` : To get to know the current version of your Git.
  
  2. `git --config` : To configure your File and related info
  
  
- #### Getting and Creating Repositaries
+#### Getting and Creating Repositaries
  
  1. `git init` : To initialize the Directory and preparing the directory for the first time Commit.
  
@@ -45,7 +46,7 @@ Here We Go! The Git Commands CheatSheet is here...
  
  3. `git commit`: Commiting file and adding to the Staging Area before pushing directly to the repo.
  
- #### Basic Snapshotting
+#### Basic Snapshotting
  
  1. `git status`: To know the status of the directory whether it has staged, pushed or pulled.
  
