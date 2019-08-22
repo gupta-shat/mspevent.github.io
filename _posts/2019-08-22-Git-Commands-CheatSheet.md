@@ -26,9 +26,9 @@ Here We Go! The Git Commands CheatSheet is here...
  
  1. `cd <space><path>`: To change the directory or to jump from one directory to another Directory.
  
- 2. `cd<space>..`: To get one step back from one directory to another directory.
+ 2. `cd<space>..`: To go one step back from one directory to another directory.
  
- 3. `touch<space><filename>`: To create a file on specified Path.
+ 3. `touch<space><filename>`: To create a new file on specified Path.
  
  
 #### Configuration & Settings
@@ -67,4 +67,4 @@ Here We Go! The Git Commands CheatSheet is here...
  For more commands see the `Git Documentation` from here [Click Here](https://git-scm.com/docs)
  
  
-   >_**Did you liked this blog? So Dont forget to leave a comment, I would love to hear your suggestion and queries.**_
+   >_Did you liked this blog? So Dont forget to leave a comment, I would love to hear your suggestion and queries._
