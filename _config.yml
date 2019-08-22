@@ -39,8 +39,6 @@ plugins:
   - jekyll-paginate
   - jekyll-feed
   - jekyll-compose
-
-gems:
   - jemoji
 
 paginate: 5
