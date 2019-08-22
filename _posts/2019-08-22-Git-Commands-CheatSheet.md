@@ -8,8 +8,6 @@ categories: Tools
 ---
 
 
-See the Regarding Post on Introduction to Git [Click Here](https://codewithdev.me/2019/08/15/How-to-use-git/)
-
 Here We Go! The Git Commands CheatSheet is here...
 
 
@@ -65,6 +63,9 @@ Here We Go! The Git Commands CheatSheet is here...
  
  
  For more commands see the `Git Documentation` from here [Click Here](https://git-scm.com/docs)
+ 
+ 
+ See the Regarding Post on Introduction to Git [Click Here](https://codewithdev.me/2019/08/15/How-to-use-git/)
  
  
    >_**Did you liked this blog? So Dont forget to leave a comment, I would love to hear your suggestion and queries**_
