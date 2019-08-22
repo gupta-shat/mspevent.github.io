@@ -42,7 +42,12 @@ And soon you will be addicted to see this screen :
  ![screen](/images/capture1.JPG)
  
   ***Congratualtions!*** You've successfully installed the Git in your System.
-  
+
+
+### Here are the basic commands ->
+
+
+{% include slider.html %}
 
   
   
