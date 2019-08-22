@@ -46,7 +46,7 @@ And soon you will be addicted to see this screen :
 
 ### Here are the basic commands -> 
 
-### [Click Here](https://codewithdev.me/git-commands-cheatsheet.html)
+### [Click Here](https://codewithdev.me/2019/08/21/Git-Commands-CheatSheet/)
 
 
 
