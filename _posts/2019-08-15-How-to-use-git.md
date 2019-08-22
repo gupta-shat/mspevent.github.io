@@ -5,6 +5,11 @@ image: 17.png
 date: 2019-08-15 19:27 +0530
 tags: [technologies,IDE]
 categories: Tools
+output:
+  html_document:
+    includes:
+      after_body: slider.html
+ 
 ---
 
 In this blog we will discuss about what is 'Version Control' and Everything about Git.
@@ -47,7 +52,7 @@ And soon you will be addicted to see this screen :
 ### Here are the basic commands ->
 
 
-<<insertHTML:[slider.html]
+
 
   
   
