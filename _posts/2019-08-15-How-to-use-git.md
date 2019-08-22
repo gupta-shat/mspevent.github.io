@@ -46,6 +46,8 @@ And soon you will be addicted to see this screen :
 
 ### Here are the basic commands ->
 
+{% include slider.html %}
+
 
 
 
