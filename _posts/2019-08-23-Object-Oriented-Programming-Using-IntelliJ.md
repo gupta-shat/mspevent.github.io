@@ -9,13 +9,13 @@ categories: Programming
 ---
 
 
-Object oriented programming in depth from beginner to expert. Learn concepts in practical and real way. oop and java
+ > Object oriented programming in depth from beginner to expert. Learn concepts in practical and real way. oop and java
 
 This course teaches you everything you should know to about object oriented programming. This is not a theoretical course, but instead I will teach you step by step, practically, by writing programming examples. This course also helps you get started as a programmer.
 
 It's time to learn java using Intellij. This course is object oriented programming for complete beginners.
 
-What you'll learn-
+ > What you'll learn-
 
 * Learn about various object oriented programming concepts
 * Learn how to use object oriented principles in real world
@@ -29,3 +29,6 @@ What you'll learn-
 ## See the Video for more details...
 
 {% include video1.html id=page.youtubeId %}
+
+
+ > ***If you are having some issues or any kind of Problems. Dont forget to leave a comment here. I would be happy to hear you!***
