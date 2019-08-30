@@ -113,8 +113,6 @@ The use of [jekyll-compose](https://github.com/jekyll/jekyll-compose) is that yo
 foo@bar:~$  bundle exec jekyll post "My New Post"
 ``` 
 
-An an example, you can also see the code of this website [here](https://github.com/codewithdev/codewithdev.github.io). 
-
 For now, that's all. Do comment if you get any error or get stuck somewhere. Subscribe to the blogs. I will be posting a guide to 
 **How to contribute to Open Source** next.
 ### Happy Coding !!!
