@@ -89,10 +89,8 @@ of your choice. After selecting a Domain, purchase it for free (Thanks to Github
 #### 5. Add CNAME
 On your Domain Dashboard on Namecheap, then go to `Advanced DNS` 
 and add a CNAME record. Something like this:
-<br/>
-![]({{site.baseurl}}/images/dnsr.png){: .center-image }
-<br/>
-In Target, replace `prateekj117.github.io` with `{your_username}.github.io`.
+
+In Target, replace `Your domain` with `{your_username}.github.io`.
 After that, in the root directory of your theme project, make a file named `CNAME` and enter the value `{your_domain_name}.me` in it.
 Commit the change and again push the commit using:
 ```console
