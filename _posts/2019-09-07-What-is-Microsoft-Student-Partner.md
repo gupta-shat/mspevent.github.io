@@ -26,7 +26,6 @@ Microsoft Student Partners do incredible things:
   *Get amazing jobs
   *And much more….
   
-  {% include mspvideo.html %}
   
   # Perks of being an MSP
   
@@ -71,5 +70,7 @@ Microsoft Student Partners do incredible things:
 You must make sure that you have the following things in your hand (Taken from official page):
 
  Student Verification: Scan and upload your college ID Card in an Online Drive. The Uploaded ID Card link should be directly viewable and the image should be properly visible.
-Video Challenge: Please create a 1-minute or less video explaining why you should be a Microsoft Student Partner on your campus. Elaborate on technical skills, events you’ve been involved with, and describe how you would motivate students on your campus to learn about technology. The video should be uploaded on Youtube and made publicity visible. Only applications with completed videos will be reviewed. You can take reference as to how to upload a video on Youtube from here
+Video Challenge: Please create a 1-minute or less video explaining why you should be a Microsoft Student Partner on your campus. Elaborate on technical skills, events you’ve been involved with, and describe how you would motivate students on your campus to learn about technology. The video should be uploaded on Youtube and made publicity visible. Only applications with completed videos will be reviewed. You can take reference as to how to upload a video on Youtube from here -->
+
+ {% include mspvideo.html %}
   
