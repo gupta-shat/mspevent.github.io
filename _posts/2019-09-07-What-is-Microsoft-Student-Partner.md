@@ -2,7 +2,7 @@
 layout: post
 title: Microsoft Student Partners – Geek is the new rockstar
 image: MSPP.png
-date: 2019-08-27 17:27 +0530
+date: 2019-09-07 17:27 +0530
 tags: [portfolio, Github]
 categories: profile
 ---
