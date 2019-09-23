@@ -35,7 +35,7 @@ Microsoft Student Partners do incredible things:
   
   Being an MSP will increase your chances for being selected in Microsoft invite only events, conferences and meetups. You can meet amazing people in these events.
   
-  ## Free MSDN subscription
+## Free MSDN subscription
   This is one of my favorite perks being an MSP. Being an MSP, Microsoft will give you a free MSDN (Visual studio enterprise) subscription
   (Which costs around $5,999). It will give you access to all Microsoft products for free. You can easily download and use genuine Microsoft
   products from your MSDN subscription portal. You can get up to 5 genuine serial keys for most products completely for free. 
