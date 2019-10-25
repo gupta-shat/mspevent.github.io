@@ -36,7 +36,7 @@ I think You might be Ready to Hack...
 
 There are few steps to start hacking and support open Source.
 
-  1.Create a Account in [GitHub]{:style="color:#505050; text-align: centre;"}(https://www.github.com).
+  1.Create a Account in [GitHub](https://www.github.com).
 
   2.Fill all the Details. 
 
