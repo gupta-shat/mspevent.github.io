@@ -30,7 +30,7 @@ Well  the Term **Open Source** basically refers to the accessibility to the end 
   
 #### How To Start
 
-Lots of communities and Technological Companies hiring People to find the bugs and pay a large amount of bucks by hosting [Bug Bounty and Hackathons]{:style="color:#505050; text-align: centre;"}. Now They switched and creating a platform to access almost all user whether they have Coding skills or Not. 
+Lots of communities and Technological Companies hiring People to find the bugs and pay a large amount of bucks by hosting Bug Bounty and Hackathons. Now They switched and creating a platform to access almost all user whether they have Coding skills or Not. 
 
 I think You might be Ready to Hack...
 
@@ -40,7 +40,7 @@ There are few steps to start hacking and support open Source.
 
   2.Fill all the Details. 
 
-  3.Refer to My [Git Tutorials](https://codewithdev.me/2019/08/15/How-to-use-git/) and [CheatSheet]   (https://codewithdev.me/2019/08/21/Git-Commands-CheatSheet/)
+  3.Refer to My [Git Tutorials](https://codewithdev.me/2019/08/15/How-to-use-git/) and [CheatSheet](https://codewithdev.me/2019/08/21/Git-Commands-CheatSheet/)
 
   4.Sign-up to the Hacktoberfest official [event Site](https://hacktoberfest.digitalocean.com/) 
 ![]({{site.baseurl}}/images/hack1.png){: .center-image }
