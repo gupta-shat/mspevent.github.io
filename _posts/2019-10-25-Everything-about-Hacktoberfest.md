@@ -19,7 +19,8 @@ During  this October event Everyone can Support Open-source by contributing chan
 If you are new to Open Source You are at right place so dont worry about that, I'm here to help you. ;)
 Well  the Term **Open Source** basically refers to the accessibility to the end user of a particular software delivered by the particular Software Company. Such as ***Linux OS, Oracle Softwares and Dependencies, Visual Studio, various Code Editor etc.***. They are freely available to the the end User.
 
- ## What are the legends
+
+## What are the legends
   1. It might be easy to test your software by delivering it as free of cost to the public on Open Source Community.
   2. User will help you to find the bugs in your Software.
   3. You can add additional Features to your software by using ***[Version- Control](https://codewithdev.me/2019/08/15/How-to-use-git/)***
