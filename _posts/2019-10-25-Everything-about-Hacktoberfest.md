@@ -23,7 +23,8 @@ Well  the Term **Open Source** basically refers to the accessibility to the end 
   1. It might be easy to test your software by delivering it as free of cost to the public on Open Source Community.
   2. User will help you to find the bugs in your Software.
   3. You can add additional Features to your software by using ***[Version- Control](https://codewithdev.me/2019/08/15/How-to-use-git/)***
-  4. It helps to provide various hareway and local to the user.
+ 
+ 4. It helps to provide various hareway and local to the user.
   
   
   
@@ -35,35 +36,35 @@ I think You might be Ready to Hack...
 
 There are few steps to start hacking and support open Source.
 
-  1. Create a Account in [GitHub]{:style="color:#505050; text-align: centre;"}(https://www.github.com).
+  1.Create a Account in [GitHub]{:style="color:#505050; text-align: centre;"}(https://www.github.com).
 
-  2. Fill all the Details. 
+  2.Fill all the Details. 
 
-  3. Refer to My [Git Tutorials](https://codewithdev.me/2019/08/15/How-to-use-git/) and [CheatSheet]   (https://codewithdev.me/2019/08/21/Git-Commands-CheatSheet/)
+  3.Refer to My [Git Tutorials](https://codewithdev.me/2019/08/15/How-to-use-git/) and [CheatSheet]   (https://codewithdev.me/2019/08/21/Git-Commands-CheatSheet/)
 
   4.Sign-up to the Hacktoberfest official [event Site](https://hacktoberfest.digitalocean.com/) 
 ![]({{site.baseurl}}/images/hack1.png){: .center-image }
 
-  5. Everything is Set Just Select any one of the Community to start Hacking.
-
-![]({{site.baseurl}}/images/hack2.png){: .center-image }
+  
+  5.Everything is Set Just Select any one of the Community to start Hacking.
+   ![]({{site.baseurl}}/images/hack2.png){: .center-image }
   
   
-  6. Go and Click on the Fork Button to Fork the Repositary you want to Contribute.
+  6.Go and Click on the Fork Button to Fork the Repositary you want to Contribute.
   ![]({{site.baseurl}}/images/hack4.png){: .center-image }
   
   
-  7. You have to submit at least 4 PR(Pull Request) to complete this Year's Challenge.
+  7.You have to submit at least 4 PR(Pull Request) to complete this Year's Challenge.
      ![]({{site.baseurl}}/images/hack3.png){: .center-image }
 
  
-  8. Pull Request from the `Master` to `Master` on author's Directory that the changes you have made from your Repositary.
+  8.Pull Request from the `Master` to `Master` on author's Directory that the changes you have made from your Repositary.
     [How to Pull Requests](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request-from-a-fork)
     
-  9. After Successfull submission wait for the Reviewer to Merge Your PR.
+  9.After Successfull submission wait for the Reviewer to Merge Your PR.
  
 
-  10. If your PR passess the Validity of 5 Days then you might be successfully done.
+  10.If your PR passess the Validity of 5 Days then you might be successfully done.
 
 
 ### IF YOU STUCK IN ANY STEP DONT FORGET  I WILL TRY TO HELP YOU OUT WITH THE SOULUTION. DONT FORGET TO LEAVE A COMMENT.
