@@ -35,31 +35,40 @@ I think You might be Ready to Hack...
 
 There are few steps to start hacking and support open Source.
 
- *1. Create a Account in [GitHub]{:style="color:#505050; text-align: centre;"}(https://www.github.com).
+ 1. Create a Account in [GitHub]{:style="color:#505050; text-align: centre;"}(https://www.github.com).
 
-2. Fill all the Details. 
+ 2. Fill all the Details. 
 
-3. Refer to My [Git Tutorials](https://codewithdev.me/2019/08/15/How-to-use-git/) and [CheatSheet](https://codewithdev.me/2019/08/21/Git-Commands-CheatSheet/)
+ 3. Refer to My [Git Tutorials](https://codewithdev.me/2019/08/15/How-to-use-git/) and [CheatSheet](https://codewithdev.me/2019/08/21/Git-Commands-CheatSheet/)
 
-4.Sign-up to the Hacktoberfest official [event Site](https://hacktoberfest.digitalocean.com/) 
+ 4.Sign-up to the Hacktoberfest official [event Site](https://hacktoberfest.digitalocean.com/) 
 ![]({{site.baseurl}}/images/hack1.png){: .center-image }
 
-5. Everything is Set Just Select any one of the Community to start Hacking.
+ 5. Everything is Set Just Select any one of the Community to start Hacking.
 
 ![]({{site.baseurl}}/images/hack2.png){: .center-image }
+  
+  
+ 6. Go and Click on the Fork Button to Fork the Repositary you want to Contribute.
+  ![]({{site.baseurl}}/images/hack4.png){: .center-image }
+  
+  
 
-
-6. You have to submit at least 4 PR(Pull Request) to complete this Year's Challenge.
+ 7. You have to submit at least 4 PR(Pull Request) to complete this Year's Challenge.
 
 ![]({{site.baseurl}}/images/hack3.png){: .center-image }
 
+ 
+ 8. Pull Request from the `Master` to `Master` on author's Directory that the changes you have made from your Repositary.
+    [How to Pull Requests](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request-from-a-fork)
+    
+ 9. After Successfull submission wait for the Reviewer to Merge Your PR.
+ 
 
-7. After Successfull submission wait for the Reviewer to Merge Your PR.
+ 10. If your PR passess the Validity of 5 Days then you might be successfully done.
 
-8. If your PR passess the Validity of 5 Days then you might be successfully done.
 
-9. Enter the code
-
+### IF YOU STUCK IN ANY STEP DONT FORGET  I WILL TRY TO HELP YOU OUT WITH THE SOULUTION. DONT FORGET TO LEAVE A COMMENT AND SEND YOUR QUERY TO THE [MAIL](admin@codewithdev.me).
 
 #### How to Get Help ?
 
@@ -68,9 +77,10 @@ If you are stuck or have any question, see our [Hacktoberfest FAQ](https://hackt
 
 #### Useful Links
 
-**[My GitHub Account](https://github.com/codewithdev)**
-**[My Telegram Channel](https://t.me/joinchat/Ihu1hhB_c5K_z7KzyrTIxQ)**
-**[Hacktoberfest Site](https://https://hacktoberfest.digitalocean.com/)**
+1. **[My GitHub Account](https://github.com/codewithdev)**
+2. **[My Telegram Channel](https://t.me/joinchat/Ihu1hhB_c5K_z7KzyrTIxQ)**
+3. **[Hacktoberfest Site](https://https://hacktoberfest.digitalocean.com/)**
+4. **[GitHub Help](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/allowing-changes-to-a-pull-request-branch-created-from-a-fork)**
 
 
 
