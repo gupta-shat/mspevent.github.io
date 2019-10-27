@@ -66,6 +66,8 @@ There are few steps to start hacking and support open Source.
  
 
   10.If your PR passess the Validity of 5 Days then you might be successfully done.
+  
+  ![]({{site.baseurl}}/images/hack6.png){:.center-image }
 
 
 ### IF YOU STUCK IN ANY STEP DONT FORGET  I WILL TRY TO HELP YOU OUT WITH THE SOULUTION. DONT FORGET TO LEAVE A COMMENT.
