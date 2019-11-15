@@ -37,7 +37,7 @@ ___
 
 | Your Name       |         Email           |                  Course/Branch/Year |
 |-----------------|-------------------------|------------------------------------:|
-| Dev Prakash Sharma| idevprakaash@gmail.com | MCA-2nd Year |
+| Dev Prakash Sharma| idevprakaash@hotmail.com | MCA-2nd Year |
 
 
 
