@@ -33,7 +33,7 @@ ___
 
 
 
-# Attendees List 
+# Attenddees List 
 
 | Your Name       | Email           | Course/Branch/Year |
 | -------------   |:-------------:| -----:|
