@@ -1,17 +1,16 @@
-title: Welcome C0ders!
-description: codewithdev is a fully-fledged Technical Blog which is drawing your attention all the time.
+title: Welcome to Open Source and GitHub Workshop.
+description: 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://codewithdev.me" # the base hostname & protocol for your site, e.g. http://example.com
+url:  # the base hostname & protocol for your site, e.g. http://example.com
 
 # Author
-author-name:    Dev Prakash Sharma        
-author-image:   1.jpeg
-author-job:     Web Developer | Tech Enthusiast | Blogger | AI & ML | Ethical Hacker
+author-name:    mspevent       
+author-image:   1.png
+author-job:     Kamla Nehru Institute of Technology, Sultanpur 
 author-email:   dev.18715@knit.ac.in # Add your email for contant form.
 author-twitter: devtweets  # Add your twitter account
-about-author:   An Open Source advocate with interest in Technology and AI. Web Developer, Tech Enthusiast and Blogger.
-       Former Machine Learning Intern at IIT Roorkee. Microsoft Student Partner(MSP 2019).Currently working with Projects using Machine Learning and Deep Learning.
-
+about-author:   Welcome to Kamla Nehru Institute of Technology, Sultanpur. Event Page for the Microsoft Student Partner.
+ You will get all the details on the Webpage.
 # Social settings
 social-twitter:   devtweeets
 social-facebook:  beliked3v
