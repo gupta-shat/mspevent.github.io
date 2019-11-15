@@ -37,10 +37,10 @@ ___
 
 # Attenddees List 
 
-| Your Name       |         Email           |                  Course/Branch/Year |
-|-----------------|-------------------------|------------------------------------:|
+| Full Name| Email | Course |
+| --- | --- | --- |
+| Content 1 | Content 2 | Content 3 
 
-| Abc | xyz | xyz |
 
 
 
