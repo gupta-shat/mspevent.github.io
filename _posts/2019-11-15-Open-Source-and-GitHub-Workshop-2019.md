@@ -28,7 +28,7 @@ Here is our Speaker for the Event
 
 
 
-
+___
 
 
 
@@ -37,8 +37,6 @@ Here is our Speaker for the Event
 
 | Your Name       | Email           | Course/Branch/Year |
 | -------------   |:-------------:| -----:|
-
-
 | XYZ              | XYZ             | ABC  |
 
 
