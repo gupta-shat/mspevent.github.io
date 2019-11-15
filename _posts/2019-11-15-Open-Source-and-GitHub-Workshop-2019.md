@@ -36,9 +36,8 @@ ___
 # Attenddees List 
 
 | Your Name       |         Email           |                  Course/Branch/Year |
-| --------------- |:-----:| ----:|
-| XYZ             | XYZ                     |                              ABC  |
-| Dev Prakash Sharma                      |         idevprakaash@gmail.com |                MCA-2nd Year |
+|-----------------|-------------------------|------------------------------------:|
+| Dev Prakash Sharma| idevprakaash@gmail.com | MCA-2nd Year |
 
 
 
