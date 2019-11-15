@@ -17,7 +17,7 @@ Currently Open Source softwares are hovering over the commercial softwares and m
 
 Very excitedly, Through this 1-day workshop we will contribute to the open source and learn how to do the pull Requests.
 
-# Open Source Contribution- MSP Workshop 2019 (KNIT Sulltanpur)
+# Open Source Contribution- MSP Workshop 2019 (KNIT Sultanpur)
 
 Here is our Speaker for the Event 
 
