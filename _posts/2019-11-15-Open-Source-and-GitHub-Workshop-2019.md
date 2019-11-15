@@ -35,8 +35,8 @@ ___
 
 # Attenddees List 
 
-| Your Name       | Email           | Course/Branch/Year |
-| -------------   |:-------------:| -----:|
+| Your Name       |         Email           |                  Course/Branch/Year |
+| -------------------------------           |:---------------------------------:| -----------------------------------:|
 | XYZ              | XYZ             | ABC  |
 
 
