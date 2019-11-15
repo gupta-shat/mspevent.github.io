@@ -8,7 +8,7 @@ categories: Post
 ---
 
 
-# Hi Sophos!
+### Hi Sophos!
 
 Welcome to all of you in this Thread of Blog. The blog is all about the 1-day workshop on "Open Source and GitHub". Which is hosted by Microsoft in association with GitHub and MLH(Major League Hacking),
 
@@ -19,7 +19,7 @@ Very excitedly, Through this 1-day workshop we will contribute to the open sourc
 So Presenting  _*Hackatron*_ 
 
 
-# Open Source Contribution- MSP Workshop 2019 (KNIT Sultanpur)
+# <span style="color:blue"> Open Source Contribution- MSP Workshop 2019 (KNIT Sultanpur)</span>
 
 Here is our Speaker for the Event 
 
