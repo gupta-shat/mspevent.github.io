@@ -1,6 +1,6 @@
 ---
 layout: post
-title: MSP Event 2019.
+title: Hacka+tron 2019
 image: file.png
 date: 2019-11-15 11:27 +0530
 tags: [programming, openSource]
@@ -16,6 +16,8 @@ As the Technology is growing on we are becoming used to towards the technology. 
 Currently Open Source softwares are hovering over the commercial softwares and more the passion and craze is going through us. More companies are organizing the Events like Hacktoberfest and many things.
 
 Very excitedly, Through this 1-day workshop we will contribute to the open source and learn how to do the pull Requests.
+So Presenting  _*Hackatron*_ 
+
 
 # Open Source Contribution- MSP Workshop 2019 (KNIT Sultanpur)
 
@@ -37,7 +39,8 @@ ___
 
 | Your Name       |         Email           |                  Course/Branch/Year |
 |-----------------|-------------------------|------------------------------------:|
-| Dev Prakash Sharma| idevprakaash@hotmail.com | MCA-2nd Year |
+
+| Abc | xyz | xyz |
 
 
 
