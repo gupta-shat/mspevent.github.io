@@ -39,7 +39,7 @@ ___
 
 | Full Name| Email | Course |
 | --- | --- | --- |
-| Content 1 | Content 2 | Content 3 
+| XYZ | XYZ.COM| MCA  
 
 
 
