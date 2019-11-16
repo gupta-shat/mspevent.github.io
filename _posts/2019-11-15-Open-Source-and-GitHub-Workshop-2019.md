@@ -39,7 +39,7 @@ ___
 
 | Full Name| Email | Course |
 | --- | --- | --- |
-| XYZ | XYZ.COM| MCA  
+|Km Shatakshi | visitshatakshigupta@gmail.com| MCA  1st year
 
 
 
